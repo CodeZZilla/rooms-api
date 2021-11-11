@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Chrev - Crypto Bootstrap Admin Dashboard</title>
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" th:href="@{/images/favicon.png}">
+    <!-- Datatable -->
+    <link th:href="@{/vendor/datatables/css/jquery.dataTables.min.css}" rel="stylesheet">
+    <!-- Custom Stylesheet -->
+    <link th:href="@{/vendor/bootstrap-select/dist/css/bootstrap-select.min.css}" rel="stylesheet">
+    <link th:href="@{/css/style.css}" rel="stylesheet">
+
+</head>
+
+<body>
+
+<!--*******************
+        Preloader start
+    ********************-->
+<div id="preloader">
+    <div class="sk-three-bounce">
+        <div class="sk-child sk-bounce1"></div>
+        <div class="sk-child sk-bounce2"></div>
+        <div class="sk-child sk-bounce3"></div>
+    </div>
+</div>
+<!--*******************
+        Preloader end
+    ********************-->
+
+
+<!--**********************************
+        Main wrapper start
+    ***********************************-->
+<div id="main-wrapper">
+
+    <div th:replace="~{fragments/header-nav :: header}"></div>
+    <div th:replace="~{fragments/header-nav :: navbar}"></div>
+
+    <!--**********************************
+            Content body start
+        ***********************************-->
+    <div class="content-body">
+        <div class="container-fluid">
+            <div class="page-titles">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="javascript:void(0)">Користувачі</a></li>
+                    <li class="breadcrumb-item active"><a href="javascript:void(0)">Таблиця</a></li>
+                </ol>
+            </div>
+            <!-- row -->
+
+
+            <div class="row">
+                <div class="col-9">
+                    <div class="card">
+                        <div class="card-header">
+                            <h4 class="card-title">Користувачі боту ROOMS</h4>
+                        </div>
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                <table id="example3" class="display min-w850">
+                                    <thead>
+                                    <tr>
+<!--                                        <th></th>-->
+                                        <th>id телеграму</th>
+                                        <th>Фамілія</th>
+                                        <th>Ім'я</th>
+                                        <th>К-сть днів до оновлення підписки</th>
+                                        <th>Дата регестрації</th>
+                                        <th>Action</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    <tr th:each="user : ${userTelegram}">
+<!--                                        <td><img class="rounded-circle" width="35" src="images/profile/small/pic1.jpg"-->
+<!--                                                 alt=""></td>-->
+                                        <td th:text="${user.idTelegram}"></td>
+                                        <td th:text="${user.lastName}">Architect</td>
+                                        <td th:text="${user.name}">Male</td>
+                                        <td th:text="${user.daysOfSubscription}">M.COM., P.H.D.</td>
+                                        <td th:text="${user.creationDate}">2011/04/25</td>
+                                        <td>
+                                            <div class="d-flex">
+                                                <div class="form-check">
+                                                    <input class="form-check-input" type="checkbox" th:value="${user.idTelegram}" th:id="${user.idTelegram}">
+<!--                                                    <label class="form-check-label" th:for="${user.idTelegram}">-->
+<!--                                                        Вибрати-->
+<!--                                                    </label>-->
+                                                </div>
+                                                <div class="d-flex">
+                                                    <a th:href="@{'/user/delete/' + ${user.id}}" class="btn btn-danger shadow btn-xs sharp"><i class="fa fa-trash"></i></a>
+                                                </div>
+                                                <!--                                                <input type="checkbox" class=""-->
+<!--                                                       th:id="${user.idTelegram}" th:value="${user.idTelegram}">-->
+                                                <!--                                                <label class="form-check-label" th:for="${user.idTelegram}"></label>-->
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="compose-content">
+                                <form action="#">
+                                    <div class="form-group">
+                                        <textarea id="msg_editor"
+                                                  class="textarea_editor form-control bg-transparent" rows="15"
+                                                  placeholder="Enter text ..."></textarea>
+                                    </div>
+                                </form>
+
+                            </div>
+                            <button class="btn btn-primary btn-sl-sm mr-2" type="button" onclick="send()"><span class="mr-2"><i
+                                    class="fa fa-paper-plane"></i></span>Send
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--            <div class="row">-->
+            <!--                -->
+            <!--            </div>-->
+
+        </div>
+    </div>
+    <!--**********************************
+            Content body end
+        ***********************************-->
+
+
+    <!--**********************************
+            Footer start
+        ***********************************-->
+    <div class="footer">
+        <div class="copyright">
+            <p>Copyright © Designed &amp; Developed by <a href="https://dexignzone.com/" target="_blank">DexignZone</a>
+                2020</p>
+        </div>
+    </div>
+    <!--**********************************
+            Footer end
+        ***********************************-->
+
+    <!--**********************************
+           Support ticket button start
+        ***********************************-->
+
+    <!--**********************************
+           Support ticket button end
+        ***********************************-->
+
+
+</div>
+<!--**********************************
+        Main wrapper end
+    ***********************************-->
+
+<!--**********************************
+        Scripts
+    ***********************************-->
+<!-- Required vendors -->
+<script th:src="@{/vendor/global/global.min.js}"></script>
+<script th:src="@{/vendor/bootstrap-select/dist/js/bootstrap-select.min.js}"></script>
+<script th:src="@{/js/custom.min.js}"></script>
+<script th:src="@{/js/deznav-init.js}"></script>
+
+<!-- Datatable -->
+<script th:src="@{/vendor/datatables/js/jquery.dataTables.min.js}"></script>
+<script th:src="@{/js/plugins-init/datatables.init.js}"></script>
+<script th:src="@{/js/myJs/user-table-script.js}"></script>
+
+</body>
+</html>

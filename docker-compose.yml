@@ -1,0 +1,42 @@
+version: "3"
+
+services:
+
+  api-database:
+    image: mongo:latest
+    container_name: "api-database"
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: 6B4Xmk4E9h
+    ports:
+      - "27017:27017"
+    volumes:
+      - "./data:/data/db"
+
+  rooms-bot-api:
+    depends_on:
+      - api-database
+      - rooms-bot-admin
+    build:
+      dockerfile: Dockerfile
+      context: ./rooms-bot-api
+    restart: always
+    ports:
+      - "8080:8080"
+
+#  rooms-eureka-server:
+#    container_name: discovery-service
+#    build:
+#      context: ./rooms-eureka-server
+#      dockerfile: Dockerfile
+#    ports:
+#      - "8761:8761"
+
+  rooms-bot-admin:
+    container_name: bot-admin
+    build:
+      context: ./rooms-bot-admin
+      dockerfile: Dockerfile
+    ports:
+      - "8181:8181"
