@@ -30,6 +30,7 @@ public class UserController {
     @ResponseBody
     public ResponseEntity<User> getOneUser(@PathVariable String idTelegram) {
         User user = userService.findByIdTelegram(idTelegram);
+
         if (user == null) {
             return new ResponseEntity<>(HttpStatus.NOT_FOUND);
         }
@@ -51,7 +52,6 @@ public class UserController {
     }
 
     @PostMapping("/add")
-    @ResponseStatus(HttpStatus.CREATED)
     public ResponseEntity<User> addNewUser(@RequestBody User user) {
         User userSave = userService.save(user);
         userService.todayCompilationUser(userSave);

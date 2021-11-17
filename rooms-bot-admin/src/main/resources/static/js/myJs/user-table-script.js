@@ -1,5 +1,5 @@
 function send() {
-    let jsonText = httpGet('http://95.217.184.62:8080/api/user')
+    let jsonText = httpGet('http://rooms-bot-api:8080/api/user')
     let users = JSON.parse(jsonText)
     let inputId = []
     for (user of users) {
@@ -13,7 +13,7 @@ function send() {
         'userTelegramId': inputId,
         'messageText': msg.value
     }
-    fetch('http://95.217.184.62:8080/api/message/add', {
+    fetch('http://rooms-bot-api:8080/api/message/add', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',

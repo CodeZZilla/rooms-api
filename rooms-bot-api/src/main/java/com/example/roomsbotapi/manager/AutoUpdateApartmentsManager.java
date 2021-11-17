@@ -10,6 +10,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.joda.time.Days;
 import org.joda.time.LocalDate;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.scheduling.annotation.Async;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 import org.w3c.dom.Document;
@@ -88,7 +89,8 @@ public class AutoUpdateApartmentsManager {
         }
     }
 
-    protected void urlParser(String urlString) {
+    @Async
+    public void urlParser(String urlString) {
         try {
 
             int countSaveData = 0, countContinueData = 0;
