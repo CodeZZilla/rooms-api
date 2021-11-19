@@ -72,7 +72,6 @@ public class UserController {
         userFromDb.setLastName(user.getLastName());
         userFromDb.setNickname(user.getNickname());
         userFromDb.setSavedApartments(user.getSavedApartments());
-        userFromDb.setPhone(user.getPhone());
         userFromDb.setIdTelegram(user.getIdTelegram());
         userFromDb.setDaysOfSubscription(user.getDaysOfSubscription());
         userFromDb.setRooms(user.getRooms());
@@ -86,6 +85,8 @@ public class UserController {
         userFromDb.setFreeCounterSearch(user.getFreeCounterSearch());
         userFromDb.setType(user.getType());
         userFromDb.setLanguage(user.getLanguage());
+        userFromDb.setEmail(user.getEmail());
+        userFromDb.setPhoneNumber(user.getPhoneNumber());
 
         userService.save(userFromDb);
         userService.todayCompilationUser(userFromDb);

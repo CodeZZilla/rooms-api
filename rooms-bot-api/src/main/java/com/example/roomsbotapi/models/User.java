@@ -18,6 +18,8 @@ public class User {
     @Id
     private String id;
 
+    private String email;
+    private String phoneNumber;
     private Date creationDate = new Date();
     private String type;
     private String name;
@@ -27,7 +29,6 @@ public class User {
     private String city;
     private List<String> region;
     private List<String> metroNames;
-    private String phone;
     private String idTelegram;
     private long daysOfSubscription;
     private int priceMin;
