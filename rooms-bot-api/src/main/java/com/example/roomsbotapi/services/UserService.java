@@ -32,7 +32,22 @@ public class UserService {
     }
 
     public List<User> findAll() {
-        return repository.findAll();
+        List<User> user = repository.findAll();
+        user.forEach(item -> {
+            if (item.getIdTelegram() == null)
+                item.setIdTelegram("");
+
+            if (item.getLastName() == null)
+                item.setLastName("");
+
+            if (item.getName() == null)
+                item.setName("");
+        });
+        return user;
+    }
+
+    public void deleteAll(List<User> users) {
+        repository.deleteAll(users);
     }
 
     public User save(User user) {

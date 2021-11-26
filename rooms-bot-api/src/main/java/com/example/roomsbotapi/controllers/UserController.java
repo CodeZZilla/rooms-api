@@ -8,6 +8,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -22,8 +24,7 @@ public class UserController {
     @GetMapping
     @ResponseBody
     public ResponseEntity<List<User>> getAllUsers() {
-        List<User> user = userService.findAll();
-        return ResponseEntity.ok(user);
+        return ResponseEntity.ok(userService.findAll());
     }
 
     @GetMapping("/{idTelegram}")
@@ -94,13 +95,21 @@ public class UserController {
         return ResponseEntity.ok(userFromDb);
     }
 
-    @DeleteMapping("/delete/{id}")
-    public ResponseEntity<?> delete(@PathVariable String id) {
+    @DeleteMapping("/delete")
+    public ResponseEntity<?> delete(@RequestParam("id") String[] id) {
         try {
-            userService.deleteById(id);
+            List<User> users = new ArrayList<>();
+            for (String item : id) {
+                User user = userService.findById(item);
+                if (user != null) {
+                    users.add(user);
+                }
+            }
+
+            userService.deleteAll(users);
         } catch (EmptyResultDataAccessException ex) {
             ex.printStackTrace();
-            return new ResponseEntity<>("id=" + id + " not found", HttpStatus.NOT_ACCEPTABLE);
+            return new ResponseEntity<>("id=" + Arrays.toString(id) + " not found", HttpStatus.NOT_ACCEPTABLE);
         }
 
         return new ResponseEntity<>(HttpStatus.OK);

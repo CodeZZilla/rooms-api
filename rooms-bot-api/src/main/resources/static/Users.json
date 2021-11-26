@@ -1,0 +1,7203 @@
+[{
+  "_id": {
+    "$oid": "6197e55a5c1aaf3b89bd5d4f"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:56:42.736Z"
+  },
+  "type": "аренда:квартира",
+  "name": "ℝ𝕠𝕞𝕒𝕟",
+  "lastName": "𝔾𝕠𝕝𝕠𝕥𝕒",
+  "nickname": "golota69",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Дворец Спорта",
+    "Печерская",
+    "Дружбы Народов",
+    "Лукьяновская",
+    "Золотые Ворота"
+  ],
+  "idTelegram": "605515817",
+  "daysOfSubscription": 0,
+  "priceMin": 500,
+  "priceMax": 2000,
+  "rooms": [
+    1,
+    2,
+    3
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e55e5c1aaf3b89bd5d50"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:56:46.909Z"
+  },
+  "type": "аренда:комната",
+  "name": "Руслан",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "716835855",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e5635c1aaf3b89bd5d51"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:56:51.468Z"
+  },
+  "type": "аренда:квартира",
+  "name": "д а р и н к а",
+  "nickname": "chuudoo",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "466376104",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e56f5c1aaf3b89bd5d52"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:57:03.032Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Mitya",
+  "nickname": "mityalive",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский"
+  ],
+  "idTelegram": "412306507",
+  "daysOfSubscription": 6,
+  "priceMin": 1000,
+  "priceMax": 10000,
+  "rooms": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "todayCompilation": [
+    1447382,
+    1447412,
+    1449454,
+    1448031,
+    1447559,
+    1446987,
+    1449431,
+    1449483,
+    1449097,
+    1448072,
+    1448996,
+    1448290,
+    1449046,
+    1448277,
+    1448450,
+    1448111,
+    1447885,
+    1449336,
+    1448338,
+    1448335,
+    1448658,
+    1447318,
+    1448332,
+    1448993,
+    1447742,
+    1449542,
+    1448539,
+    1449337
+  ],
+  "language": "ua",
+  "freeCounterSearch": 0,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e58b5c1aaf3b89bd5d53"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:57:31.225Z"
+  },
+  "type": "продажа",
+  "name": "kupidon_1321",
+  "nickname": "SUETA_NA_SVYAZI",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Оболонский",
+    "Подольский",
+    "Печерский"
+  ],
+  "metroNames": [
+    "Печерская"
+  ],
+  "idTelegram": "533783637",
+  "daysOfSubscription": 0,
+  "priceMin": 20000,
+  "priceMax": 25000,
+  "rooms": [
+    3
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 8,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e5a65c1aaf3b89bd5d54"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:57:58.497Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Саша Сіфоров",
+  "nickname": "sashasiforov",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Дворец Спорта",
+    "Печерская",
+    "Дружбы Народов"
+  ],
+  "idTelegram": "924935103",
+  "daysOfSubscription": 13,
+  "priceMin": 12000,
+  "priceMax": 13000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e5a65c1aaf3b89bd5d55"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:57:58.956Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Miroslava",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Дворец Спорта",
+    "Кловская",
+    "Печерская"
+  ],
+  "idTelegram": "564742355",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e5ea5c1aaf3b89bd5d56"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:59:06.357Z"
+  },
+  "type": "",
+  "name": "Vika💫",
+  "nickname": "vika_schevchenko",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "752440700",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e5ed5c1aaf3b89bd5d57"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:59:09.905Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Vladyslava Bondarchuk",
+  "nickname": "vladyslavabondarchuk",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Арсенальная",
+    "Печерская"
+  ],
+  "idTelegram": "1884138686",
+  "daysOfSubscription": 0,
+  "priceMin": 5000,
+  "priceMax": 7000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e5f15c1aaf3b89bd5d58"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:59:13.692Z"
+  },
+  "type": "продажа",
+  "name": "Тарас",
+  "lastName": "Бандура",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Деснянский",
+    "Днепровский",
+    "Печерский",
+    "Дарницкий"
+  ],
+  "idTelegram": "441909209",
+  "daysOfSubscription": 6,
+  "priceMin": 10000,
+  "priceMax": 200000,
+  "rooms": [
+    1,
+    2
+  ],
+  "todayCompilation": [
+    1448610,
+    1448544,
+    1447624,
+    1447450,
+    1447028,
+    1447279,
+    1448740,
+    1447939,
+    1447302,
+    1449319,
+    1449176,
+    1448684,
+    1447418,
+    1449053,
+    1448196,
+    1449694,
+    1449490,
+    1447629,
+    1448052,
+    1447510,
+    1449182,
+    1448694,
+    1448285,
+    1447306,
+    1447983,
+    1447761,
+    1448434,
+    1447674,
+    1449139,
+    1448199,
+    1449304,
+    1449709,
+    1446992,
+    1447016,
+    1447182,
+    1448557,
+    1448328,
+    1449620,
+    1447675,
+    1448967,
+    1448353,
+    1448598,
+    1449720,
+    1449104,
+    1447110,
+    1447223,
+    1449489,
+    1447804,
+    1449634,
+    1448347,
+    1448959,
+    1448222,
+    1447015,
+    1449650,
+    1447282,
+    1448807,
+    1448919,
+    1448845,
+    1449276,
+    1448354,
+    1447556,
+    1448695,
+    1447446,
+    1449090,
+    1449281,
+    1449493,
+    1447623,
+    1447229,
+    1449103,
+    1449370,
+    1449374,
+    1448039,
+    1447378,
+    1448939,
+    1447875,
+    1447787,
+    1448299,
+    1448665,
+    1449666,
+    1447557,
+    1447717,
+    1449218
+  ],
+  "language": "ua",
+  "freeCounterSearch": 0,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e5f45c1aaf3b89bd5d59"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:59:16.238Z"
+  },
+  "type": "",
+  "name": "𝙰𝚛𝚒𝚗𝚊",
+  "nickname": "kzncvaa",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "382348359",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 1,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e5f65c1aaf3b89bd5d5a"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:59:18.565Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Mark",
+  "lastName": "Shulmeyster",
+  "nickname": "shlmstr",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "449059795",
+  "daysOfSubscription": 29,
+  "priceMin": 8000,
+  "priceMax": 11000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1449366,
+    1449043,
+    1448158,
+    1448339,
+    1446925,
+    1447074,
+    1449431,
+    1449097,
+    1446987,
+    1447426,
+    1448335,
+    1449481,
+    1448871,
+    1449286,
+    1448990,
+    1448537,
+    1447318,
+    1449597,
+    1449321,
+    1447471,
+    1448338,
+    1449324,
+    1448778,
+    1448705,
+    1447383,
+    1449469,
+    1446974,
+    1447742,
+    1448450,
+    1448702,
+    1448721,
+    1447382,
+    1447563,
+    1447292,
+    1448072,
+    1447776,
+    1449046,
+    1447885,
+    1447413,
+    1447798,
+    1448658,
+    1448511,
+    1448949,
+    1448833,
+    1447246,
+    1448866,
+    1447639,
+    1448632,
+    1449143,
+    1448993,
+    1448290,
+    1447433,
+    1449293,
+    1447837,
+    1449338,
+    1448507,
+    1447744,
+    1448145,
+    1447845,
+    1448676,
+    1447859,
+    1448539,
+    1448031,
+    1447559,
+    1447799,
+    1448992,
+    1449336,
+    1447478,
+    1448635,
+    1447293,
+    1448360,
+    1449470,
+    1449009,
+    1448047,
+    1448996,
+    1448291,
+    1449340,
+    1447858,
+    1448099,
+    1447680,
+    1448945,
+    1448843
+  ],
+  "language": "ua",
+  "freeCounterSearch": 8,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e5fc5c1aaf3b89bd5d5b"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:59:24.392Z"
+  },
+  "type": "",
+  "name": "Кирилл",
+  "nickname": "meb0dy",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "874872768",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e5ff5c1aaf3b89bd5d5c"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:59:27.358Z"
+  },
+  "type": "аренда:комната",
+  "name": "Zolton🐐",
+  "nickname": "Zolton_n",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Оболонский",
+    "Подольский",
+    "Печерский"
+  ],
+  "metroNames": [
+    "Черниговская"
+  ],
+  "idTelegram": "640038523",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 150000,
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e6085c1aaf3b89bd5d5d"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:59:36.147Z"
+  },
+  "type": "аренда:комната",
+  "name": "Anastasik",
+  "nickname": "ne_zna_g",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "657440865",
+  "daysOfSubscription": 0,
+  "priceMin": 1000,
+  "priceMax": 2000,
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 5,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e61a5c1aaf3b89bd5d5e"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:59:54.426Z"
+  },
+  "type": "продажа",
+  "name": "DARIA",
+  "nickname": "TROIANDD",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "514303316",
+  "daysOfSubscription": 0,
+  "priceMin": 400000,
+  "priceMax": 500000,
+  "rooms": [
+    3
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 8,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e61d5c1aaf3b89bd5d5f"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T17:59:57.798Z"
+  },
+  "type": "продажа",
+  "name": "Алина",
+  "lastName": "Бориславская",
+  "nickname": "AlinaBoryslavskaya",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "584466451",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e6285c1aaf3b89bd5d60"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:00:08.898Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Liana",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Голосеевский",
+    "Печерский",
+    "Шевченковский"
+  ],
+  "idTelegram": "721246026",
+  "daysOfSubscription": 0,
+  "priceMin": 500,
+  "priceMax": 1500,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e6305c1aaf3b89bd5d61"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:00:16.694Z"
+  },
+  "type": "аренда:комната",
+  "name": "Ricky",
+  "lastName": "Porcket",
+  "nickname": "jaroslavfons",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Лесная",
+    "Дарниця",
+    "Шулявская",
+    "Политехнический институт",
+    "Позняки",
+    "Харьковская",
+    "Бориспольская"
+  ],
+  "idTelegram": "596292265",
+  "daysOfSubscription": 0,
+  "priceMin": 5000,
+  "priceMax": 10000,
+  "todayCompilation": [
+    1447240,
+    1448046,
+    1447008,
+    1449553
+  ],
+  "language": "ua",
+  "freeCounterSearch": 3,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e6385c1aaf3b89bd5d62"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:00:24.800Z"
+  },
+  "type": "",
+  "name": "Валентин",
+  "lastName": "Кіт",
+  "nickname": "hi_vel",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "447833870",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e63a5c1aaf3b89bd5d63"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:00:26.516Z"
+  },
+  "type": "аренда:комната",
+  "name": "Boom 🤯",
+  "nickname": "pilip2001",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "692913344",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e67c5c1aaf3b89bd5d64"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:01:32.799Z"
+  },
+  "type": "аренда:квартира",
+  "name": "localhost:8080",
+  "nickname": "CadetOfPeace",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Нивки",
+    "Героев Днепра",
+    "Крещатик",
+    "Арсенальная",
+    "Олимпийская",
+    "Лыбедская",
+    "Кловская",
+    "Печерская",
+    "Дружбы Народов",
+    "Университет",
+    "Театральная",
+    "Майдан Независимости",
+    "Дорогожичи",
+    "Лукьяновская",
+    "Золотые Ворота",
+    "Славутич",
+    "Осокорки",
+    "Позняки"
+  ],
+  "idTelegram": "489214541",
+  "daysOfSubscription": 0,
+  "priceMin": 8000,
+  "priceMax": 12000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1448632,
+    1448183,
+    1448658,
+    1448450,
+    1447885,
+    1448031,
+    1449336,
+    1448338,
+    1449431,
+    1448993,
+    1449046,
+    1446987,
+    1449151,
+    1448537,
+    1447559,
+    1449556,
+    1448259
+  ],
+  "language": "ua",
+  "freeCounterSearch": 4,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e69e5c1aaf3b89bd5d65"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:02:06.951Z"
+  },
+  "type": "аренда:комната",
+  "name": "Екатерина",
+  "lastName": "Андреева",
+  "nickname": "mimrmr",
+  "savedApartments": [
+    1448829
+  ],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "586590160",
+  "daysOfSubscription": 0,
+  "priceMin": 1000,
+  "priceMax": 5000,
+  "todayCompilation": [
+    1449045,
+    1447465,
+    1447682,
+    1449082,
+    1447725,
+    1447430,
+    1449098,
+    1448873,
+    1449054,
+    1447040,
+    1448397,
+    1448701,
+    1447732,
+    1447890,
+    1449323,
+    1447889,
+    1448406,
+    1448594,
+    1446945,
+    1446910,
+    1448251,
+    1447101,
+    1449410,
+    1448033,
+    1447140,
+    1449186,
+    1449407,
+    1449040,
+    1448212,
+    1449700,
+    1448720,
+    1447751,
+    1447796,
+    1449398,
+    1448855,
+    1448738,
+    1449229,
+    1446982,
+    1449041,
+    1448294,
+    1449200,
+    1447635,
+    1448767,
+    1447190,
+    1447115,
+    1446904,
+    1447662,
+    1449310,
+    1448178,
+    1448073,
+    1447766,
+    1448642,
+    1447236,
+    1448706,
+    1449622,
+    1449367,
+    1448374,
+    1446922,
+    1449071,
+    1448928,
+    1448215,
+    1447479,
+    1447943,
+    1449202,
+    1448644,
+    1448864,
+    1449541,
+    1448785,
+    1447992,
+    1447429,
+    1446943,
+    1447770,
+    1449289,
+    1449073,
+    1448070,
+    1449252,
+    1448280,
+    1448834,
+    1448342,
+    1448207,
+    1449467,
+    1449275,
+    1447116,
+    1447463,
+    1448541,
+    1448027,
+    1448356,
+    1448211,
+    1448560,
+    1447767,
+    1447773,
+    1448574,
+    1447840,
+    1449396,
+    1447195,
+    1447801,
+    1448829,
+    1448453,
+    1448025,
+    1449451,
+    1449485,
+    1447271,
+    1447380
+  ],
+  "language": "ua",
+  "freeCounterSearch": 0,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e6b15c1aaf3b89bd5d66"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:02:25.014Z"
+  },
+  "type": "",
+  "name": "?",
+  "nickname": "antiUniverse",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "1040057133",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e70c5c1aaf3b89bd5d67"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:03:56.452Z"
+  },
+  "type": "продажа",
+  "name": "💎",
+  "nickname": "datteebayosh",
+  "savedApartments": [
+    1446931
+  ],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "1198562478",
+  "daysOfSubscription": 0,
+  "priceMin": 20000,
+  "priceMax": 50000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [
+    1448408,
+    1446931,
+    1447629,
+    1447557,
+    1448109,
+    1449182,
+    1447283,
+    1449139
+  ],
+  "language": "ua",
+  "freeCounterSearch": 2,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e7115c1aaf3b89bd5d68"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:04:01.390Z"
+  },
+  "type": "аренда:комната",
+  "name": "Bordjiano",
+  "nickname": "Bordjiano",
+  "savedApartments": [
+    1447662,
+    1447889
+  ],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "721589507",
+  "daysOfSubscription": 13,
+  "priceMin": 1000,
+  "priceMax": 15000,
+  "todayCompilation": [
+    1448402,
+    1448706,
+    1448834,
+    1447773,
+    1449622,
+    1448073,
+    1448032,
+    1446943,
+    1448855,
+    1448034,
+    1447766,
+    1449040,
+    1449193,
+    1449467,
+    1448785,
+    1448594,
+    1449485,
+    1449367,
+    1447891,
+    1447465,
+    1449082,
+    1448211,
+    1448251,
+    1448280,
+    1446904,
+    1449625,
+    1448294,
+    1448957,
+    1447140,
+    1448453,
+    1448836,
+    1446945,
+    1448738,
+    1447635,
+    1446922,
+    1447889,
+    1448804,
+    1449289,
+    1448720,
+    1448406,
+    1449323,
+    1448342,
+    1448642,
+    1447662,
+    1447190,
+    1447796,
+    1448454,
+    1448025,
+    1447362,
+    1448574,
+    1449186,
+    1449041,
+    1449553,
+    1448644,
+    1447271,
+    1447801,
+    1449398,
+    1448374,
+    1448864,
+    1448046,
+    1448070,
+    1449202,
+    1449073,
+    1447236,
+    1447732,
+    1447770,
+    1449275,
+    1448000,
+    1447115,
+    1449098,
+    1449229,
+    1447463,
+    1447479,
+    1449252,
+    1447314,
+    1448356,
+    1447992,
+    1448928,
+    1447840,
+    1447682,
+    1449411,
+    1447040,
+    1449595,
+    1448677,
+    1447240,
+    1449310,
+    1447890,
+    1448560,
+    1447943,
+    1448701,
+    1448986,
+    1448178,
+    1448829,
+    1447008,
+    1448767,
+    1446910,
+    1449147,
+    1449200,
+    1449591,
+    1449045,
+    1449054,
+    1447101,
+    1448358,
+    1449451,
+    1449407,
+    1447380,
+    1448541,
+    1447430,
+    1449410,
+    1448397,
+    1448033,
+    1448873,
+    1448215,
+    1448212,
+    1447116,
+    1448204,
+    1447751,
+    1447364,
+    1446982,
+    1448207,
+    1447767,
+    1449541,
+    1448027,
+    1447195,
+    1447429,
+    1449071,
+    1449396,
+    1447725,
+    1447135
+  ],
+  "language": "ua",
+  "freeCounterSearch": 6,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e7295c1aaf3b89bd5d69"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:04:25.772Z"
+  },
+  "type": "",
+  "name": "Кирилл",
+  "nickname": "ozmitelll",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "832707199",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e72c5c1aaf3b89bd5d6a"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:04:28.943Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Мусіхін Владислав",
+  "nickname": "gost_Stream",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "955811814",
+  "daysOfSubscription": 0,
+  "priceMin": 1727282,
+  "priceMax": 0,
+  "rooms": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 5,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e7455c1aaf3b89bd5d6b"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:04:53.906Z"
+  },
+  "type": "аренда:квартира",
+  "name": "🤌",
+  "nickname": "oxymain",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "1782821777",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 12000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 5,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e7585c1aaf3b89bd5d6c"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:05:12.050Z"
+  },
+  "type": "",
+  "name": "Слава",
+  "lastName": "Степаненко",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "636885791",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e7595c1aaf3b89bd5d6d"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:05:13.680Z"
+  },
+  "type": "продажа",
+  "name": "Unknown",
+  "nickname": "dlutsenkoo",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "440402294",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "rooms": [
+    1,
+    2
+  ],
+  "todayCompilation": [
+    1447510
+  ],
+  "language": "ua",
+  "freeCounterSearch": 9,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e7705c1aaf3b89bd5d6e"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:05:36.840Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Gojo",
+  "lastName": "Satoru",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "1630439094",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 5,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e7805c1aaf3b89bd5d6f"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:05:52.120Z"
+  },
+  "type": "аренда:квартира",
+  "name": "mdcrystalll",
+  "nickname": "mdcrysralll",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Печерская"
+  ],
+  "idTelegram": "1254325739",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e7815c1aaf3b89bd5d70"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:05:53.309Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Anastasia",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "537663249",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e78c5c1aaf3b89bd5d71"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:06:04.166Z"
+  },
+  "type": "",
+  "name": "Владимир🕊💫",
+  "nickname": "speedy_s",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "436830623",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e79a5c1aaf3b89bd5d72"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:06:18.082Z"
+  },
+  "type": "аренда:комната",
+  "name": "Броніслав",
+  "nickname": "bron1040",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "673270349",
+  "daysOfSubscription": 0,
+  "priceMin": 100,
+  "priceMax": 1000,
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e7e75c1aaf3b89bd5d73"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:07:35.527Z"
+  },
+  "type": "продажа",
+  "name": "Yurii",
+  "nickname": "mc_daddy10",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Голосеевский"
+  ],
+  "idTelegram": "642666477",
+  "daysOfSubscription": 0,
+  "priceMin": 40000,
+  "priceMax": 60000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1448699,
+    1447031,
+    1448609,
+    1448615,
+    1449092
+  ],
+  "language": "ua",
+  "freeCounterSearch": 4,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e81c5c1aaf3b89bd5d74"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:08:28.874Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Katya",
+  "lastName": "Oleksiychuk",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "640220444",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 12000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1449592,
+    1447837,
+    1448339,
+    1448183,
+    1447426,
+    1449340,
+    1449097,
+    1446911,
+    1448450,
+    1449242,
+    1448676,
+    1449321,
+    1448537,
+    1448803,
+    1449151,
+    1447843,
+    1448945,
+    1446925,
+    1449338,
+    1447799,
+    1447636,
+    1448100,
+    1449538,
+    1448072,
+    1448099,
+    1447144,
+    1448360,
+    1449043,
+    1448259,
+    1448158,
+    1448507,
+    1449481,
+    1448145,
+    1448335,
+    1448193,
+    1447998,
+    1449470,
+    1447074,
+    1449380,
+    1447845,
+    1447478,
+    1449556,
+    1448030,
+    1447742,
+    1448635,
+    1449286,
+    1447468,
+    1448996,
+    1449431,
+    1447798,
+    1448562,
+    1448047,
+    1447318,
+    1449597
+  ],
+  "language": "ua",
+  "freeCounterSearch": 7,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e82c5c1aaf3b89bd5d75"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:08:44.490Z"
+  },
+  "type": "",
+  "name": "Никита",
+  "lastName": "Рыбалка",
+  "nickname": "nikita228_1488",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "680563045",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e83e5c1aaf3b89bd5d76"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:09:02.179Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Назар",
+  "lastName": "Ванівський",
+  "nickname": "nazar_vs",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Дворец Спорта"
+  ],
+  "idTelegram": "564915145",
+  "daysOfSubscription": 0,
+  "priceMin": 5000,
+  "priceMax": 6000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e8465c1aaf3b89bd5d77"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:09:10.294Z"
+  },
+  "type": "",
+  "name": "Ден",
+  "nickname": "StiilKing",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "774079201",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e8685c1aaf3b89bd5d78"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:09:44.202Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Макс",
+  "lastName": "♾",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Голосеевский",
+    "Печерский",
+    "Шевченковский"
+  ],
+  "metroNames": [
+    "Арсенальная",
+    "Олимпийская",
+    "Кловская",
+    "Печерская"
+  ],
+  "idTelegram": "602068695",
+  "daysOfSubscription": 0,
+  "priceMin": 5000,
+  "priceMax": 10000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 8,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e8835c1aaf3b89bd5d79"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:10:11.758Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Маша😜",
+  "nickname": "mari_cam",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Печерская"
+  ],
+  "idTelegram": "670479347",
+  "daysOfSubscription": 0,
+  "priceMin": 1000,
+  "priceMax": 3000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e8855c1aaf3b89bd5d7a"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:10:13.865Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Dmitriy",
+  "lastName": "Sudakov",
+  "nickname": "Beardedcat",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "58791781",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 5,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e8a75c1aaf3b89bd5d7b"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:10:47.269Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Sanya",
+  "nickname": "sanya_mi",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Шевченковский"
+  ],
+  "metroNames": [
+    "Героев Днепра",
+    "Минская",
+    "Оболонь"
+  ],
+  "idTelegram": "505929014",
+  "daysOfSubscription": 0,
+  "priceMin": 8000,
+  "priceMax": 10000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1448658,
+    1448993,
+    1447559
+  ],
+  "language": "ua",
+  "freeCounterSearch": 6,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e8b15c1aaf3b89bd5d7c"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:10:57.710Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Huang he",
+  "nickname": "huang_he",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Шевченковский"
+  ],
+  "metroNames": [
+    "Житомирская",
+    "Святошин",
+    "Нивки",
+    "Берестейская",
+    "Шулявская",
+    "Политехнический институт",
+    "Вокзальная",
+    "Минская",
+    "Оболонь",
+    "Петровка",
+    "Тараса Шевченка",
+    "Контрактовая площадь",
+    "Почтовая площадь",
+    "Университет",
+    "Театральная",
+    "Майдан Независимости",
+    "Площадь Льва Толстого",
+    "Дорогожичи",
+    "Лукьяновская",
+    "Золотые Ворота"
+  ],
+  "idTelegram": "444617911",
+  "daysOfSubscription": 0,
+  "priceMin": 9000,
+  "priceMax": 11000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1449097,
+    1447383,
+    1449321,
+    1448031,
+    1448635,
+    1449046,
+    1449336,
+    1447413,
+    1447478,
+    1448537,
+    1449431,
+    1448338,
+    1447885
+  ],
+  "language": "ua",
+  "freeCounterSearch": 0,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e8b35c1aaf3b89bd5d7d"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:10:59.394Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Serhii",
+  "nickname": "einervoneuch",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "310017660",
+  "daysOfSubscription": 0,
+  "priceMin": 5000,
+  "priceMax": 10000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [
+    1448660,
+    1449393,
+    1448277,
+    1448576,
+    1447604,
+    1449074,
+    1448111,
+    1447476,
+    1449337,
+    1448955,
+    1447245,
+    1446977,
+    1448513,
+    1449585,
+    1448640,
+    1448305,
+    1448707,
+    1447993,
+    1448131,
+    1449197,
+    1448117,
+    1448540,
+    1448128,
+    1448825,
+    1447095,
+    1448633
+  ],
+  "language": "ua",
+  "freeCounterSearch": 5,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e8b95c1aaf3b89bd5d7e"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:11:05.077Z"
+  },
+  "type": "",
+  "name": "Mykyta",
+  "lastName": "Holubakha",
+  "nickname": "Hummer12007",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "371283520",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e8c25c1aaf3b89bd5d7f"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:11:14.539Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Дима",
+  "nickname": "acidhouze044",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Оболонский"
+  ],
+  "metroNames": [
+    "Оболонь"
+  ],
+  "idTelegram": "531528004",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1447478
+  ],
+  "language": "ua",
+  "freeCounterSearch": 9,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e8cf5c1aaf3b89bd5d80"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:11:27.301Z"
+  },
+  "type": "",
+  "name": "Paulus",
+  "lastName": "Bor",
+  "nickname": "Paulluussbor",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "359968947",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e8d85c1aaf3b89bd5d81"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:11:36.446Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Cat",
+  "nickname": "catcatovich",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "1249478140",
+  "daysOfSubscription": 29,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "en",
+  "freeCounterSearch": 10,
+  "userStatus": 2,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e8e35c1aaf3b89bd5d82"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:11:47.178Z"
+  },
+  "type": "аренда:комната",
+  "name": "Aсад",
+  "nickname": "asad_0111",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Голосеевский",
+    "Подольский",
+    "Дарницкий"
+  ],
+  "idTelegram": "431536310",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "todayCompilation": [],
+  "language": "en",
+  "freeCounterSearch": 10,
+  "userStatus": 8,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e91d5c1aaf3b89bd5d83"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:12:45.072Z"
+  },
+  "type": "",
+  "name": "Nikolay",
+  "lastName": "Nerushaev",
+  "nickname": "Nerushaev",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "412859679",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e9265c1aaf3b89bd5d84"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:12:54.761Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Kuzmenko",
+  "nickname": "modest_t",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Печерская"
+  ],
+  "idTelegram": "451462225",
+  "daysOfSubscription": 0,
+  "priceMin": 1000,
+  "priceMax": 1500,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e9385c1aaf3b89bd5d85"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:13:12.407Z"
+  },
+  "type": "",
+  "name": "Люди",
+  "lastName": "и Бифидок",
+  "nickname": "Kehug",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "421684412",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e9395c1aaf3b89bd5d86"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:13:13.372Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Sofi",
+  "lastName": "Bekh",
+  "nickname": "SofiBekh",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "293708892",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e9535c1aaf3b89bd5d87"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:13:39.073Z"
+  },
+  "type": "продажа",
+  "name": "Давид",
+  "nickname": "davydg",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Голосеевский"
+  ],
+  "idTelegram": "363194816",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e9725c1aaf3b89bd5d88"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:14:10.626Z"
+  },
+  "type": "",
+  "name": "I R A A A ✨",
+  "nickname": "irapitsyshyn",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "515903200",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e9945c1aaf3b89bd5d89"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:14:44.263Z"
+  },
+  "type": "",
+  "name": "annet_shev",
+  "nickname": "annetashev",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "543913599",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e9b35c1aaf3b89bd5d8a"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:15:15.927Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Yuri",
+  "lastName": "💜 Ly",
+  "nickname": "LyoSU",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "66478514",
+  "daysOfSubscription": 0,
+  "priceMin": 4000,
+  "priceMax": 6500,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1448332,
+    1448737
+  ],
+  "language": "ua",
+  "freeCounterSearch": 6,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e9d75c1aaf3b89bd5d8b"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:15:51.839Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Den",
+  "nickname": "t40AM",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Подольский",
+    "Печерский"
+  ],
+  "idTelegram": "460538223",
+  "daysOfSubscription": 0,
+  "priceMin": 5000,
+  "priceMax": 10000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [
+    1448277
+  ],
+  "language": "ua",
+  "freeCounterSearch": 9,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197e9f95c1aaf3b89bd5d8c"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:16:25.940Z"
+  },
+  "type": "аренда:комната",
+  "name": "Ivan",
+  "nickname": "fosters21",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Голосеевский",
+    "Оболонский",
+    "Печерский"
+  ],
+  "metroNames": [
+    "Оболонь",
+    "Крещатик",
+    "Арсенальная",
+    "Площадь Льва Толстого",
+    "Олимпийская",
+    "Печерская"
+  ],
+  "idTelegram": "791221811",
+  "daysOfSubscription": 0,
+  "priceMin": 1000,
+  "priceMax": 10000,
+  "todayCompilation": [
+    1448402,
+    1447140,
+    1448677,
+    1447891
+  ],
+  "language": "ua",
+  "freeCounterSearch": 7,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ea4c5c1aaf3b89bd5d8d"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:17:48.713Z"
+  },
+  "type": "аренда:квартира",
+  "name": "__𝘼𝙣𝙙𝙧𝙚𝙮__",
+  "nickname": "andrey_zh19",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "514591762",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ea5d5c1aaf3b89bd5d8e"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:18:05.466Z"
+  },
+  "type": "",
+  "name": "Inline ®",
+  "nickname": "inlline",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "764692835",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 1,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ea625c1aaf3b89bd5d8f"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:18:10.310Z"
+  },
+  "type": "аренда:комната",
+  "name": "_avelis",
+  "nickname": "vslv_k",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Арсенальная",
+    "Площадь Льва Толстого"
+  ],
+  "idTelegram": "836788882",
+  "daysOfSubscription": 0,
+  "priceMin": 3000,
+  "priceMax": 4000,
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ea6f5c1aaf3b89bd5d90"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:18:23.080Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Олежа",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Голосеевский",
+    "Оболонский"
+  ],
+  "metroNames": [
+    "Петровка"
+  ],
+  "idTelegram": "859055890",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "rooms": [
+    2,
+    3
+  ],
+  "todayCompilation": [],
+  "language": "en",
+  "freeCounterSearch": 10,
+  "userStatus": 8,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197eab05c1aaf3b89bd5d91"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:19:28.546Z"
+  },
+  "type": "",
+  "name": "сосок",
+  "lastName": "сотоны",
+  "nickname": "itoshiterururu",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "791460954",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197eab55c1aaf3b89bd5d92"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:19:33.241Z"
+  },
+  "type": "аренда:квартира",
+  "name": "YoungMan",
+  "nickname": "Yokarim",
+  "savedApartments": [
+    1449286
+  ],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "idTelegram": "387328134",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1448259,
+    1449286,
+    1448996,
+    1447959,
+    1448450
+  ],
+  "language": "ua",
+  "freeCounterSearch": 6,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197eb0e5c1aaf3b89bd5d93"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:21:02.642Z"
+  },
+  "type": "",
+  "name": "Feuerengel 🔥🔥🔥",
+  "nickname": "feuer_engel",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "527404341",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197eb335c1aaf3b89bd5d94"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:21:39.420Z"
+  },
+  "type": "",
+  "name": "Іван",
+  "lastName": "Богоносюк",
+  "nickname": "ibohonos",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "38852240",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197eb575c1aaf3b89bd5d95"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:22:15.471Z"
+  },
+  "type": "",
+  "name": "Гарик-_-",
+  "nickname": "trytofindme0",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "1263495990",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ec075c1aaf3b89bd5d96"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:25:11.580Z"
+  },
+  "type": "аренда:комната",
+  "name": "Много",
+  "lastName": "Базаришь",
+  "nickname": "mnogobazarish",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "364081853",
+  "daysOfSubscription": 0,
+  "priceMin": 1000,
+  "priceMax": 5000,
+  "todayCompilation": [
+    1448294,
+    1448070,
+    1447943,
+    1447796,
+    1447635,
+    1448706,
+    1448397,
+    1449202,
+    1447429,
+    1447465,
+    1448855,
+    1449073,
+    1448073,
+    1448701,
+    1446904,
+    1446922,
+    1448033,
+    1449252,
+    1448025,
+    1448767,
+    1449275,
+    1447236,
+    1447773,
+    1447682,
+    1449040,
+    1447463,
+    1449541,
+    1447801,
+    1448178,
+    1448738,
+    1449622,
+    1449398,
+    1449098,
+    1448211,
+    1446943,
+    1447770,
+    1449323,
+    1449410,
+    1449041,
+    1449407,
+    1449054,
+    1449451,
+    1447479,
+    1448215,
+    1447040,
+    1446945,
+    1447101,
+    1448541,
+    1448406,
+    1448560,
+    1447732,
+    1447662,
+    1447195,
+    1449396,
+    1448574,
+    1449367,
+    1447116,
+    1449310,
+    1449467,
+    1448864,
+    1448342,
+    1448644,
+    1448027,
+    1447115,
+    1448212,
+    1448720,
+    1449082,
+    1449200,
+    1448642,
+    1448834,
+    1448453,
+    1448207,
+    1447380,
+    1447140,
+    1449071,
+    1447430,
+    1447889,
+    1447992,
+    1448374,
+    1447751,
+    1446982,
+    1448280,
+    1448873,
+    1447890,
+    1448829,
+    1448356,
+    1447271,
+    1447767,
+    1449186,
+    1448785,
+    1449289,
+    1449485,
+    1447190,
+    1448594,
+    1446910,
+    1448251,
+    1449045,
+    1449229,
+    1448928,
+    1447840,
+    1447766,
+    1447725
+  ],
+  "language": "ua",
+  "freeCounterSearch": 7,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ec785c1aaf3b89bd5d97"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:27:04.387Z"
+  },
+  "type": "",
+  "name": "Vlad",
+  "nickname": "wherevlad",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "175412096",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ecb75c1aaf3b89bd5d98"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:28:07.793Z"
+  },
+  "type": "аренда:комната",
+  "name": "Artem",
+  "lastName": "Soroka",
+  "nickname": "artsoroka",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Деснянский"
+  ],
+  "idTelegram": "114764886",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "todayCompilation": [],
+  "language": "en",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197eccc5c1aaf3b89bd5d99"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:28:28.038Z"
+  },
+  "type": "аренда:комната",
+  "name": "Влад",
+  "nickname": "Obliik21",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Осокорки",
+    "Позняки",
+    "Харьковская"
+  ],
+  "idTelegram": "1110407393",
+  "daysOfSubscription": 0,
+  "priceMin": 1000,
+  "priceMax": 7000,
+  "todayCompilation": [
+    1447040,
+    1449625,
+    1448855,
+    1449553,
+    1447195,
+    1447801,
+    1447008
+  ],
+  "language": "ua",
+  "freeCounterSearch": 0,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ecf15c1aaf3b89bd5d9a"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:29:05.596Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Maks",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Соломенский",
+    "Оболонский"
+  ],
+  "metroNames": [
+    "Минская"
+  ],
+  "idTelegram": "662693038",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 16000,
+  "rooms": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "todayCompilation": [
+    1448399,
+    1449337
+  ],
+  "language": "ua",
+  "freeCounterSearch": 9,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ecf25c1aaf3b89bd5d9b"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:29:06.487Z"
+  },
+  "type": "",
+  "name": "Семён",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "885492195",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ed245c1aaf3b89bd5d9c"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:29:56.536Z"
+  },
+  "type": "аренда:комната",
+  "name": "Zhuravel",
+  "lastName": "Sergey",
+  "nickname": "zuravel_serhii",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "683555023",
+  "daysOfSubscription": 0,
+  "priceMin": 1000,
+  "priceMax": 3000,
+  "todayCompilation": [
+    1448594,
+    1449252,
+    1447190,
+    1447770,
+    1448785,
+    1447889,
+    1446922,
+    1448374,
+    1449396,
+    1449186,
+    1448280,
+    1449485
+  ],
+  "language": "ua",
+  "freeCounterSearch": 9,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ed585c1aaf3b89bd5d9d"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:30:48.395Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Валентин",
+  "lastName": "Яровий",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Бориспольская"
+  ],
+  "idTelegram": "560784815",
+  "daysOfSubscription": 0,
+  "priceMin": 20000,
+  "priceMax": 25000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ed5d5c1aaf3b89bd5d9e"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:30:53.380Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Женя",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "idTelegram": "1020745767",
+  "daysOfSubscription": 0,
+  "priceMin": 7000,
+  "priceMax": 10000,
+  "rooms": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "todayCompilation": [
+    1448450,
+    1448996
+  ],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ed7c5c1aaf3b89bd5d9f"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:31:24.695Z"
+  },
+  "type": "",
+  "name": "Anton",
+  "nickname": "talion_galler",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "1076881038",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197eda75c1aaf3b89bd5da0"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:32:07.341Z"
+  },
+  "type": "",
+  "name": "Dima",
+  "nickname": "dimmaa9@gmail.com",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197edb45c1aaf3b89bd5da1"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:32:20.862Z"
+  },
+  "type": "аренда:комната",
+  "name": "I",
+  "nickname": "Buy_Hold_Hold_Sell",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "1275511821",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197edf35c1aaf3b89bd5da2"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:33:23.192Z"
+  },
+  "type": "",
+  "name": "Konstantin Surkin",
+  "nickname": "kostyasu5",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "910721826",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "en",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ee1c5c1aaf3b89bd5da3"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:34:04.379Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Oksana",
+  "lastName": "Sem",
+  "nickname": "oksana_333s",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Днепровский",
+    "Дарницкий"
+  ],
+  "idTelegram": "471040452",
+  "daysOfSubscription": 0,
+  "priceMin": 11000,
+  "priceMax": 15000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [
+    1447512,
+    1446973,
+    1449339,
+    1448675,
+    1448176,
+    1447775,
+    1448067,
+    1447564,
+    1449297,
+    1448954,
+    1447199,
+    1447438,
+    1447923,
+    1449313,
+    1447916,
+    1448857,
+    1447480
+  ],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ee2a5c1aaf3b89bd5da4"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:34:18.970Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Zaharko",
+  "lastName": "Dmytro",
+  "nickname": "Zaharko0410",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "740862311",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [
+    1447199,
+    1449621,
+    1448117,
+    1449539,
+    1449596,
+    1448375,
+    1447962,
+    1446973,
+    1448641,
+    1448954,
+    1449273,
+    1447615,
+    1446938,
+    1449486,
+    1447944,
+    1449337,
+    1447923,
+    1448801,
+    1447459,
+    1449585,
+    1448176,
+    1447775,
+    1449393,
+    1446916,
+    1447276,
+    1448943,
+    1447611,
+    1447995,
+    1447886,
+    1449540,
+    1446977,
+    1447476,
+    1448940,
+    1447359,
+    1448831,
+    1449297,
+    1448894,
+    1448411,
+    1447564,
+    1447245,
+    1449482,
+    1447916,
+    1448827,
+    1448825,
+    1446944,
+    1449197,
+    1447244,
+    1449326,
+    1447512,
+    1448657,
+    1449339,
+    1448513,
+    1449117,
+    1448564,
+    1447143,
+    1447467,
+    1448857,
+    1447273,
+    1448540,
+    1448929,
+    1447464,
+    1447480,
+    1447438,
+    1447654,
+    1447550,
+    1448707,
+    1448830,
+    1449248,
+    1447011,
+    1448111,
+    1449313,
+    1447610,
+    1449618,
+    1449311,
+    1447248,
+    1448418,
+    1447095,
+    1448067,
+    1448334,
+    1448675,
+    1448128
+  ],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197eed65c1aaf3b89bd5da5"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:37:10.585Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Руслан",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "643822786",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197eeef5c1aaf3b89bd5da6"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:37:35.791Z"
+  },
+  "type": "",
+  "name": "Волхв Гыкер",
+  "lastName": "Гыкерович",
+  "nickname": "Gycer",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "1357157724",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197eef35c1aaf3b89bd5da7"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:37:39.081Z"
+  },
+  "type": "",
+  "name": "Твоё Пиво 🍺",
+  "nickname": "vkusnoye_pivo",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "1714502058",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "en",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197eeff5c1aaf3b89bd5da8"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:37:51.554Z"
+  },
+  "type": "",
+  "name": "Maks",
+  "nickname": "PersonMaks",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "657899244",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ef8f5c1aaf3b89bd5da9"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:40:15.558Z"
+  },
+  "type": "",
+  "name": "𝖁𝖆𝖑𝖊𝖓𝖙𝖎𝖓𝖆 𝕻𝖔𝖑𝖞𝖚𝖍𝖔𝖛𝖎𝖈𝖍",
+  "nickname": "Sayuri_v",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "559062120",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ef9d5c1aaf3b89bd5daa"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:40:29.619Z"
+  },
+  "type": "аренда:квартира",
+  "name": "𝓜𝓪𝓻𝓲𝓷𝓪",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Дворец Спорта",
+    "Кловская",
+    "Печерская"
+  ],
+  "idTelegram": "540660105",
+  "daysOfSubscription": 0,
+  "priceMin": 500,
+  "priceMax": 900,
+  "rooms": [
+    1,
+    2
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f02b5c1aaf3b89bd5dbb"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:42:51.958Z"
+  },
+  "type": "",
+  "name": "i74n",
+  "nickname": "i7_4n",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "911957037",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "en",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f1035c1aaf3b89bd5dbc"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:46:27.961Z"
+  },
+  "type": "аренда:комната",
+  "name": "Сергей",
+  "nickname": "klimanov5",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Голосеевский"
+  ],
+  "idTelegram": "373197166",
+  "daysOfSubscription": 0,
+  "priceMin": 2000,
+  "priceMax": 4500,
+  "todayCompilation": [
+    1448738,
+    1449289,
+    1448280
+  ],
+  "language": "ua",
+  "freeCounterSearch": 4,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f1495c1aaf3b89bd5dbd"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:47:37.427Z"
+  },
+  "type": "аренда:комната",
+  "name": "Vladlen",
+  "lastName": "Marchenko",
+  "nickname": "VladlenMarchenko",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "639430888",
+  "daysOfSubscription": 0,
+  "priceMin": 1000,
+  "priceMax": 6000,
+  "todayCompilation": [
+    1448251,
+    1447271,
+    1447662,
+    1449591,
+    1449407,
+    1449396,
+    1449054,
+    1449275,
+    1449467,
+    1448829,
+    1449082,
+    1446910,
+    1446982,
+    1448032,
+    1448720,
+    1447190,
+    1446904,
+    1449098,
+    1448046,
+    1448594,
+    1449625,
+    1448864,
+    1449186,
+    1447992,
+    1449073,
+    1447766,
+    1449202,
+    1449451,
+    1448025,
+    1449040,
+    1449289,
+    1449595,
+    1448541,
+    1449485,
+    1447767,
+    1449147,
+    1447751,
+    1447040,
+    1448957,
+    1448073,
+    1448280,
+    1447195,
+    1448873,
+    1448027,
+    1447801,
+    1449700,
+    1447116,
+    1447943,
+    1448767,
+    1448402,
+    1448642,
+    1447008,
+    1448342,
+    1446922,
+    1448215,
+    1448178,
+    1448785,
+    1448836,
+    1449553,
+    1447140,
+    1449410,
+    1448453,
+    1447115,
+    1447773,
+    1448204,
+    1448855,
+    1447465,
+    1447479,
+    1447796,
+    1448644,
+    1448356,
+    1449367,
+    1448033,
+    1447682,
+    1448294,
+    1448374,
+    1449398,
+    1447430,
+    1448706,
+    1448560,
+    1448454,
+    1447890,
+    1448397,
+    1447236,
+    1449071,
+    1448070,
+    1447463,
+    1448986,
+    1448207,
+    1449541,
+    1449045,
+    1447725,
+    1448701,
+    1446943,
+    1449310,
+    1447635,
+    1447732,
+    1449193,
+    1449200,
+    1449229,
+    1448212,
+    1448358,
+    1449622,
+    1448928,
+    1446945,
+    1447240,
+    1447770,
+    1449252,
+    1447429,
+    1449411,
+    1449041,
+    1447380,
+    1448574,
+    1448677,
+    1448834,
+    1447840,
+    1447135,
+    1447101,
+    1448406,
+    1447314,
+    1448738,
+    1448211,
+    1449323,
+    1447889
+  ],
+  "language": "ua",
+  "freeCounterSearch": 7,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f1955c1aaf3b89bd5dbe"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:48:53.161Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Johnson",
+  "lastName": "White",
+  "nickname": "mtacuser",
+  "savedApartments": [
+    1447680
+  ],
+  "city": "Киев",
+  "region": [
+    "Соломенский",
+    "Печерский",
+    "Шевченковский"
+  ],
+  "idTelegram": "756545028",
+  "daysOfSubscription": 0,
+  "priceMin": 5000,
+  "priceMax": 10000,
+  "rooms": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "todayCompilation": [
+    1446987,
+    1448633,
+    1448338,
+    1449097,
+    1447885,
+    1449197,
+    1449431,
+    1447993,
+    1448539,
+    1447471,
+    1449074,
+    1449483,
+    1446977,
+    1449336,
+    1447245,
+    1449046,
+    1448996,
+    1448332,
+    1447604,
+    1448540,
+    1449454,
+    1448111,
+    1448450,
+    1447476,
+    1447680,
+    1448031
+  ],
+  "language": "ua",
+  "freeCounterSearch": 0,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f1cd5c1aaf3b89bd5dbf"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:49:49.640Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Димитри",
+  "nickname": "TrapSoldat",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Подольский",
+    "Печерский"
+  ],
+  "metroNames": [
+    "Крещатик",
+    "Арсенальная",
+    "Кловская",
+    "Печерская",
+    "Дружбы Народов"
+  ],
+  "idTelegram": "558285797",
+  "daysOfSubscription": 0,
+  "priceMin": 800,
+  "priceMax": 1000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f22e5c1aaf3b89bd5dc0"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:51:26.776Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Mike",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Подольский",
+    "Печерский"
+  ],
+  "metroNames": [
+    "Крещатик",
+    "Печерская"
+  ],
+  "idTelegram": "636912516",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 90000,
+  "rooms": [
+    3
+  ],
+  "todayCompilation": [
+    1448826,
+    1447316
+  ],
+  "language": "ua",
+  "freeCounterSearch": 9,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f2735c1aaf3b89bd5dc1"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:52:35.969Z"
+  },
+  "type": "продажа",
+  "name": "Sasha",
+  "nickname": "AleksandERlll",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "349868468",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 2,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f2a15c1aaf3b89bd5dc2"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:53:21.125Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Katenka)",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Осокорки",
+    "Позняки",
+    "Харьковская"
+  ],
+  "idTelegram": "1229249126",
+  "daysOfSubscription": 0,
+  "priceMin": 8000,
+  "priceMax": 10000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1448632,
+    1449340
+  ],
+  "language": "ua",
+  "freeCounterSearch": 4,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f3b65c1aaf3b89bd5dc3"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T18:57:58.962Z"
+  },
+  "type": "аренда:комната",
+  "name": "Alex.-.",
+  "nickname": "M00nlight08",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "793484398",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f45e5c1aaf3b89bd5dc4"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:00:46.585Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Максим",
+  "nickname": "DonagaruJatozlavo",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский",
+    "Шевченковский"
+  ],
+  "metroNames": [
+    "Крещатик",
+    "Площадь Льва Толстого",
+    "Политехнический институт",
+    "Лукьяновская",
+    "Золотые Ворота"
+  ],
+  "idTelegram": "289065931",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 16000,
+  "rooms": [
+    3
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f5235c1aaf3b89bd5dc5"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:04:03.307Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Spec",
+  "nickname": "Laktoza3",
+  "savedApartments": [
+    1447026
+  ],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "543903435",
+  "daysOfSubscription": 0,
+  "priceMin": 2000,
+  "priceMax": 8000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1448737,
+    1449143,
+    1447471,
+    1448871,
+    1449293,
+    1449454,
+    1447744,
+    1449225,
+    1449483,
+    1449325,
+    1447776,
+    1448786,
+    1448632,
+    1447026,
+    1448332,
+    1447859,
+    1447293,
+    1449542,
+    1449471,
+    1447238,
+    1449009,
+    1447997
+  ],
+  "language": "ua",
+  "freeCounterSearch": 4,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f5b85c1aaf3b89bd5dc6"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:06:32.389Z"
+  },
+  "type": "аренда:комната",
+  "name": "Denys",
+  "lastName": "Datskov",
+  "nickname": "tobleronchik_d",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Печерская"
+  ],
+  "idTelegram": "748883382",
+  "daysOfSubscription": 0,
+  "priceMin": 5000,
+  "priceMax": 7000,
+  "todayCompilation": [
+    1448402
+  ],
+  "language": "ua",
+  "freeCounterSearch": 9,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f6745c1aaf3b89bd5dc7"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:09:40.847Z"
+  },
+  "type": "аренда:комната",
+  "name": "ልር",
+  "nickname": "barbour_17",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Оболонский"
+  ],
+  "metroNames": [
+    "Оболонь"
+  ],
+  "idTelegram": "546917712",
+  "daysOfSubscription": 0,
+  "priceMin": 2000,
+  "priceMax": 4000,
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f6d95c1aaf3b89bd5dc8"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:11:21.744Z"
+  },
+  "type": "",
+  "name": "€",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "664485173",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f6db5c1aaf3b89bd5dc9"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:11:23.747Z"
+  },
+  "type": "",
+  "name": "Олексій",
+  "lastName": "Пархоменко",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "774098673",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f79c5c1aaf3b89bd5dca"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:14:36.157Z"
+  },
+  "type": "",
+  "name": "mollodoy",
+  "lastName": "chelovek",
+  "nickname": "dushevnuy",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "782310704",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f7af5c1aaf3b89bd5dcb"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:14:55.554Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Тарас",
+  "lastName": "Лашта",
+  "nickname": "lashtochka",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "542517824",
+  "daysOfSubscription": 0,
+  "priceMin": 7500,
+  "priceMax": 9000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1449469,
+    1447293,
+    1447246,
+    1447292,
+    1449009,
+    1447639,
+    1447382,
+    1446987,
+    1449366,
+    1448539,
+    1449293,
+    1448993,
+    1447433,
+    1448992,
+    1448843,
+    1447776,
+    1449454,
+    1447744,
+    1448702,
+    1448511,
+    1448291,
+    1449324,
+    1447563,
+    1448658,
+    1449225,
+    1448949,
+    1448705,
+    1449483,
+    1448871,
+    1448833,
+    1447997,
+    1446974,
+    1449325,
+    1447859,
+    1447026,
+    1447858,
+    1449336,
+    1449143,
+    1447559,
+    1448786,
+    1448338,
+    1449046,
+    1448778,
+    1447471,
+    1448632,
+    1447383
+  ],
+  "language": "ua",
+  "freeCounterSearch": 0,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f7bf5c1aaf3b89bd5dcc"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:15:11.961Z"
+  },
+  "type": "",
+  "name": "Александра",
+  "nickname": "Aleksandra1234567",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "790794220",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f7c45c1aaf3b89bd5dcd"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:15:16.462Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Anastasiia",
+  "lastName": "Hotsuliak",
+  "nickname": "mrs_anastasia",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Академгородок",
+    "Житомирская",
+    "Святошин",
+    "Нивки",
+    "Берестейская",
+    "Шулявская",
+    "Политехнический институт",
+    "Вокзальная",
+    "Оболонь",
+    "Петровка",
+    "Арсенальная",
+    "Дворец Украина",
+    "Лыбедская",
+    "Дворец Спорта",
+    "Университет",
+    "Театральная",
+    "Дорогожичи",
+    "Лукьяновская",
+    "Осокорки",
+    "Позняки"
+  ],
+  "idTelegram": "218578151",
+  "daysOfSubscription": 0,
+  "priceMin": 8000,
+  "priceMax": 10000,
+  "rooms": [
+    1,
+    2
+  ],
+  "todayCompilation": [
+    1448632,
+    1447383,
+    1449336,
+    1449585,
+    1447885,
+    1447382,
+    1448128,
+    1446987,
+    1449046,
+    1447245,
+    1447413,
+    1448111,
+    1449097,
+    1447246,
+    1449197,
+    1448031,
+    1449431,
+    1449321,
+    1448338,
+    1448131
+  ],
+  "language": "ua",
+  "freeCounterSearch": 0,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f8855c1aaf3b89bd5dce"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:18:29.977Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Антон",
+  "nickname": "mc_binarniy",
+  "savedApartments": [
+    1447799,
+    1448871,
+    1448949
+  ],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский"
+  ],
+  "idTelegram": "419728524",
+  "daysOfSubscription": 0,
+  "priceMin": 6000,
+  "priceMax": 10000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1448031,
+    1448332,
+    1449483,
+    1447559,
+    1447292,
+    1448702,
+    1449324,
+    1447471,
+    1448992,
+    1449454,
+    1448072,
+    1448949,
+    1448158,
+    1448993,
+    1447859,
+    1448450,
+    1448721,
+    1447680,
+    1449542,
+    1447563,
+    1447742,
+    1449046,
+    1448990,
+    1448511,
+    1447238,
+    1449336,
+    1448339,
+    1449321,
+    1449481,
+    1448658,
+    1447413,
+    1448360,
+    1448996,
+    1447383,
+    1448291,
+    1448871,
+    1446987,
+    1447433,
+    1448047,
+    1448290,
+    1448335,
+    1447074,
+    1447744,
+    1447858,
+    1447799,
+    1449325,
+    1448539,
+    1448833,
+    1448338,
+    1447246,
+    1448843,
+    1447382,
+    1447318,
+    1448866,
+    1447798,
+    1449097,
+    1449366,
+    1447885,
+    1449431,
+    1449225
+  ],
+  "language": "ua",
+  "freeCounterSearch": 4,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f8cb5c1aaf3b89bd5dcf"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:19:39.600Z"
+  },
+  "type": "продажа",
+  "name": "1hermn",
+  "nickname": "herman221",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "511093801",
+  "daysOfSubscription": 0,
+  "priceMin": 1000,
+  "priceMax": 15000,
+  "rooms": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "todayCompilation": [],
+  "language": "en",
+  "freeCounterSearch": 10,
+  "userStatus": 5,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f8e65c1aaf3b89bd5dd0"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:20:06.642Z"
+  },
+  "type": "продажа",
+  "name": ".",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Осокорки",
+    "Позняки"
+  ],
+  "idTelegram": "1767091789",
+  "daysOfSubscription": 0,
+  "priceMin": 20000,
+  "priceMax": 25000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f8e95c1aaf3b89bd5dd1"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:20:09.975Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Oksana",
+  "lastName": "Vasylieva",
+  "nickname": "OksanaVasylievaOV",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "508105496",
+  "daysOfSubscription": 0,
+  "priceMin": 400,
+  "priceMax": 800,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f8fb5c1aaf3b89bd5dd2"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:20:27.934Z"
+  },
+  "type": "",
+  "name": "Taras",
+  "nickname": "tbilyn",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "487657728",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f8fc5c1aaf3b89bd5dd3"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:20:28.085Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Nastya",
+  "nickname": "Yashchevskaya",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Оболонский",
+    "Подольский",
+    "Печерский"
+  ],
+  "metroNames": [
+    "Минская",
+    "Оболонь",
+    "Тараса Шевченка",
+    "Контрактовая площадь",
+    "Почтовая площадь",
+    "Площадь Льва Толстого",
+    "Олимпийская",
+    "Дворец Украина",
+    "Лыбедская",
+    "Дворец Спорта",
+    "Кловская",
+    "Печерская",
+    "Дружбы Народов"
+  ],
+  "idTelegram": "317172366",
+  "daysOfSubscription": 0,
+  "priceMin": 9000,
+  "priceMax": 16000,
+  "rooms": [
+    2,
+    3
+  ],
+  "todayCompilation": [
+    1447464,
+    1448564,
+    1448399,
+    1447186,
+    1448827,
+    1447459,
+    1449337
+  ],
+  "language": "ua",
+  "freeCounterSearch": 7,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f9225c1aaf3b89bd5dd4"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:21:06.098Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Благовест",
+  "lastName": "Бошков",
+  "nickname": "Vest91",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Подольский",
+    "Печерский",
+    "Шевченковский"
+  ],
+  "metroNames": [
+    "Шулявская",
+    "Политехнический институт",
+    "Театральная",
+    "Лукьяновская",
+    "Золотые Ворота"
+  ],
+  "idTelegram": "365863460",
+  "daysOfSubscription": 0,
+  "priceMin": 15000,
+  "priceMax": 18000,
+  "rooms": [
+    1,
+    2
+  ],
+  "todayCompilation": [
+    1448943
+  ],
+  "language": "ua",
+  "freeCounterSearch": 9,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f9635c1aaf3b89bd5dd5"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:22:11.055Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Iryna",
+  "lastName": "Mushynska",
+  "nickname": "floren_floren",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "440843299",
+  "daysOfSubscription": 0,
+  "priceMin": 7000,
+  "priceMax": 9000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1449469,
+    1447246,
+    1447292,
+    1447471,
+    1448843,
+    1447776,
+    1448949,
+    1448702,
+    1448871,
+    1448992,
+    1447559,
+    1448778,
+    1446974,
+    1447563,
+    1448993,
+    1449483,
+    1449009,
+    1447238,
+    1447997,
+    1447859,
+    1449143,
+    1447026,
+    1448705,
+    1447293,
+    1448658,
+    1447639,
+    1449325,
+    1449454,
+    1449046,
+    1449542,
+    1448338,
+    1449336,
+    1447383,
+    1447433,
+    1447744,
+    1448833,
+    1447382,
+    1446987,
+    1448511,
+    1449293,
+    1449324,
+    1449471,
+    1448291,
+    1448786,
+    1448632,
+    1448539,
+    1449225,
+    1447858,
+    1449366
+  ],
+  "language": "ua",
+  "freeCounterSearch": 0,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f9965c1aaf3b89bd5dd6"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:23:02.970Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Denys",
+  "lastName": "Porutskyi",
+  "nickname": "excleake",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "1499011798",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f9b95c1aaf3b89bd5dd7"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:23:37.511Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Влад",
+  "nickname": "Von_java",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "440836005",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "en",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197f9fd5c1aaf3b89bd5dd8"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:24:45.679Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Dima",
+  "lastName": "Dzundza",
+  "nickname": "Raxford1",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "719246970",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [
+    1,
+    2
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197fa025c1aaf3b89bd5dd9"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:24:50.280Z"
+  },
+  "type": "",
+  "name": "Андрей",
+  "nickname": "asdjklzcx",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "125848218",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197fa6c5c1aaf3b89bd5dda"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:26:36.509Z"
+  },
+  "type": "",
+  "name": "Starbox",
+  "lastName": "Developer",
+  "nickname": "sbxdevoloper",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "1909188068",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 1,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197fa705c1aaf3b89bd5ddb"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:26:40.106Z"
+  },
+  "type": "",
+  "name": "Eldar",
+  "lastName": "Mirzabekov",
+  "nickname": "mirzabekov00",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "516716470",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "en",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197fa755c1aaf3b89bd5ddc"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:26:45.345Z"
+  },
+  "type": "аренда:квартира",
+  "name": "G.U.A.N.T.U.M.",
+  "nickname": "guant_um",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский"
+  ],
+  "idTelegram": "625514188",
+  "daysOfSubscription": 0,
+  "priceMin": 5000,
+  "priceMax": 10000,
+  "rooms": [
+    1,
+    2
+  ],
+  "todayCompilation": [
+    1447471,
+    1448540,
+    1449542,
+    1449074,
+    1447742,
+    1447993,
+    1449197,
+    1448993,
+    1447604,
+    1448996,
+    1448633,
+    1447318,
+    1448072,
+    1448290,
+    1447245,
+    1447680,
+    1449337,
+    1448335,
+    1447476,
+    1448277,
+    1447559,
+    1448658,
+    1446977,
+    1448450,
+    1447382
+  ],
+  "language": "ua",
+  "freeCounterSearch": 0,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197fa975c1aaf3b89bd5ddd"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:27:19.338Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Denis",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский"
+  ],
+  "idTelegram": "239945489",
+  "daysOfSubscription": 0,
+  "priceMin": 14000,
+  "priceMax": 18000,
+  "rooms": [
+    3
+  ],
+  "todayCompilation": [
+    1447466,
+    1448835,
+    1449190,
+    1448841,
+    1448700
+  ],
+  "language": "ua",
+  "freeCounterSearch": 1,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197faa15c1aaf3b89bd5dde"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:27:29.423Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Viktoria",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "229696826",
+  "daysOfSubscription": 0,
+  "priceMin": 6000,
+  "priceMax": 8000,
+  "rooms": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "todayCompilation": [
+    1447744,
+    1448737,
+    1448640,
+    1448633,
+    1447293,
+    1448955,
+    1447859,
+    1449225,
+    1448871,
+    1447776,
+    1448305,
+    1449325,
+    1447604,
+    1447026,
+    1447471,
+    1447238,
+    1448632,
+    1449483,
+    1449009,
+    1448332,
+    1449143,
+    1447997,
+    1449454,
+    1448786,
+    1449471,
+    1448660,
+    1449293,
+    1449542
+  ],
+  "language": "ua",
+  "freeCounterSearch": 5,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197fac55c1aaf3b89bd5ddf"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:28:05.322Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Alexander Grinkov",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Печерская"
+  ],
+  "idTelegram": "807388843",
+  "daysOfSubscription": 0,
+  "priceMin": 700,
+  "priceMax": 1000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197fb6b5c1aaf3b89bd5de0"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:30:51.235Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Андрій",
+  "nickname": "andrii12321",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "2133833322",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 13000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 5,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197fc4a5c1aaf3b89bd5deb"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:34:34.339Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Мар'я",
+  "nickname": "smg_08",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Подольский",
+    "Шевченковский"
+  ],
+  "metroNames": [
+    "Вокзальная",
+    "Университет",
+    "Театральная",
+    "Майдан Независимости",
+    "Площадь Льва Толстого",
+    "Золотые Ворота"
+  ],
+  "idTelegram": "962196266",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 12000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197fc5d5c1aaf3b89bd5dec"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:34:53.188Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Оксана",
+  "lastName": "Шило",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Голосеевский",
+    "Оболонский"
+  ],
+  "metroNames": [
+    "Героев Днепра",
+    "Минская",
+    "Оболонь"
+  ],
+  "idTelegram": "832306269",
+  "daysOfSubscription": 0,
+  "priceMin": 8000,
+  "priceMax": 10000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1448658,
+    1448993,
+    1447559
+  ],
+  "language": "ua",
+  "freeCounterSearch": 1,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197fe675c1aaf3b89bd5ded"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:43:35.285Z"
+  },
+  "type": "",
+  "name": "🐕‍🦺",
+  "nickname": "cxbaka",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "307526297",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 1,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197fea55c1aaf3b89bd5dee"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:44:37.013Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Ku",
+  "nickname": "Vladislav_Zborshchenko",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "554788329",
+  "daysOfSubscription": 0,
+  "priceMin": 6000,
+  "priceMax": 8000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [
+    1448305,
+    1448955,
+    1447604,
+    1448640,
+    1448660,
+    1448633
+  ],
+  "language": "ua",
+  "freeCounterSearch": 0,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ff1c5c1aaf3b89bd5def"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:46:36.170Z"
+  },
+  "type": "",
+  "name": "Надежда",
+  "lastName": "Минская",
+  "nickname": "n_tryuk",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "357742388",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ff215c1aaf3b89bd5df0"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:46:41.302Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Dima",
+  "nickname": "our_Jesus_losted_us",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "480053048",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6197ff575c1aaf3b89bd5df1"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T19:47:35.397Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Renata👼🏼",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Святошин",
+    "Нивки",
+    "Левобережная",
+    "Берестейская",
+    "Арсенальная",
+    "Днепр",
+    "Кловская",
+    "Печерская",
+    "Университет",
+    "Театральная",
+    "Лукьяновская",
+    "Золотые Ворота"
+  ],
+  "idTelegram": "390937480",
+  "daysOfSubscription": 0,
+  "priceMin": 5000,
+  "priceMax": 9000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1449336,
+    1449483
+  ],
+  "language": "ua",
+  "freeCounterSearch": 7,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198027f5c1aaf3b89bd5df2"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T20:01:03.061Z"
+  },
+  "type": "",
+  "name": "Olya",
+  "nickname": "La_Lovpe",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "380579747",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 1,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619802dd5c1aaf3b89bd5df3"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T20:02:37.731Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Sasha",
+  "lastName": "Kulikovа🍒",
+  "nickname": "lasvds",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "492769532",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619803665c1aaf3b89bd5df4"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T20:04:54.977Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Мариша💕",
+  "nickname": "andruscenko",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "idTelegram": "500174276",
+  "daysOfSubscription": 0,
+  "priceMin": 5000,
+  "priceMax": 10000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1448996,
+    1448450
+  ],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198041d5c1aaf3b89bd5df5"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T20:07:57.377Z"
+  },
+  "type": "аренда:комната",
+  "name": "Ярослав",
+  "nickname": "Yarik1109",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Печерская"
+  ],
+  "idTelegram": "452725078",
+  "daysOfSubscription": 0,
+  "priceMin": 1000,
+  "priceMax": 1500,
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619804705c1aaf3b89bd5df6"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T20:09:20.212Z"
+  },
+  "type": "",
+  "name": "Nadijka",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "596960965",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 1,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619804dc5c1aaf3b89bd5df7"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T20:11:08.697Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Alina",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "419895822",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619806c15c1aaf3b89bd5df8"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T20:19:13.622Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Anastasia",
+  "lastName": "Gorodnia",
+  "nickname": "AnastasiaGorodnia",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Печерская"
+  ],
+  "idTelegram": "562737900",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 0,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619807825c1aaf3b89bd5e02"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T20:22:26.009Z"
+  },
+  "type": "",
+  "name": "Mr_Degurechaff",
+  "nickname": "MrDegurechaff",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "494269300",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619807b35c1aaf3b89bd5e03"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T20:23:15.913Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Каріна",
+  "lastName": "Подленко",
+  "nickname": "kandulevska",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский"
+  ],
+  "metroNames": [
+    "Академгородок",
+    "Житомирская",
+    "Святошин",
+    "Нивки"
+  ],
+  "idTelegram": "611645297",
+  "daysOfSubscription": 0,
+  "priceMin": 6000,
+  "priceMax": 9000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1447383,
+    1447246
+  ],
+  "language": "ua",
+  "freeCounterSearch": 7,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619809305c1aaf3b89bd5e04"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T20:29:36.859Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Сергей",
+  "lastName": "Ручий",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Голосеевский",
+    "Шевченковский"
+  ],
+  "metroNames": [
+    "Театральная",
+    "Лукьяновская",
+    "Золотые Ворота"
+  ],
+  "idTelegram": "535457539",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 12000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [
+    1447610
+  ],
+  "language": "ua",
+  "freeCounterSearch": 7,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "61980a235c1aaf3b89bd5e05"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T20:33:39.387Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Olaf",
+  "lastName": "Lebedev",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Соломенский"
+  ],
+  "metroNames": [
+    "Берестейская",
+    "Шулявская"
+  ],
+  "idTelegram": "780615549",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1447897,
+    1449314
+  ],
+  "language": "ua",
+  "freeCounterSearch": 8,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "61980d825c1aaf3b89bd5e06"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T20:48:02.816Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Настя",
+  "nickname": "nastasiaiv",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Левобережная",
+    "Дарниця",
+    "Позняки",
+    "Харьковская",
+    "Вырлица"
+  ],
+  "idTelegram": "345479716",
+  "daysOfSubscription": 0,
+  "priceMin": 8000,
+  "priceMax": 9000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "61980dd15c1aaf3b89bd5e07"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T20:49:21.794Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Максим",
+  "nickname": "mykisman",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "352585442",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198101a5c1aaf3b89bd5e08"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T20:59:06.302Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Artyom",
+  "lastName": "Zavrazhin",
+  "nickname": "Zavrik94",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Дружбы Народов"
+  ],
+  "idTelegram": "182317757",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198102c5c1aaf3b89bd5e09"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T20:59:24.838Z"
+  },
+  "type": "",
+  "name": "Vadym",
+  "lastName": "Liubko",
+  "nickname": "vliubko",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "73114831",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 2,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198113a5c1aaf3b89bd5e0a"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T21:03:54.132Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Olga",
+  "lastName": "Tymchenko",
+  "nickname": "olgatymch",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Голосеевский",
+    "Оболонский",
+    "Печерский"
+  ],
+  "idTelegram": "986960820",
+  "daysOfSubscription": 0,
+  "priceMin": 5000,
+  "priceMax": 8000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1449542,
+    1447744,
+    1448871
+  ],
+  "language": "ua",
+  "freeCounterSearch": 6,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619812325c1aaf3b89bd5e0b"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T21:08:02.869Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Vlad",
+  "nickname": "Forest_vendigo",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "idTelegram": "481774608",
+  "daysOfSubscription": 0,
+  "priceMin": 400,
+  "priceMax": 600,
+  "rooms": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619813945c1aaf3b89bd5e1d"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T21:13:56.940Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Lidiia",
+  "lastName": "Tolkachova",
+  "nickname": "LidiiaTolkachova",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Шевченковский"
+  ],
+  "metroNames": [
+    "Лукьяновская"
+  ],
+  "idTelegram": "1385309763",
+  "daysOfSubscription": 0,
+  "priceMin": 11000,
+  "priceMax": 16000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1449583,
+    1449552
+  ],
+  "language": "ua",
+  "freeCounterSearch": 5,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619814bf5c1aaf3b89bd5e1e"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T21:18:55.815Z"
+  },
+  "type": "продажа",
+  "name": "Maxim",
+  "lastName": "Koylo",
+  "nickname": "maximkoylo",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "465729749",
+  "daysOfSubscription": 0,
+  "priceMin": 50000,
+  "priceMax": 70000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1447717,
+    1449027,
+    1448544,
+    1449319,
+    1448667,
+    1448336,
+    1449103,
+    1446952,
+    1447255,
+    1448353,
+    1449474,
+    1448883,
+    1447929,
+    1449104,
+    1448299,
+    1449490,
+    1447390,
+    1449276,
+    1447284,
+    1447810,
+    1447031,
+    1447086,
+    1448328,
+    1449092,
+    1446928,
+    1447418,
+    1447017,
+    1448699,
+    1446992,
+    1448196,
+    1448304,
+    1449205,
+    1447616,
+    1449489,
+    1449281,
+    1449447,
+    1448967,
+    1448310,
+    1449218,
+    1449180
+  ],
+  "language": "ua",
+  "freeCounterSearch": 5,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "61981ac15c1aaf3b89bd5e1f"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T21:44:33.568Z"
+  },
+  "type": "аренда:комната",
+  "name": "Fedos",
+  "nickname": "fedoss26",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Дружбы Народов"
+  ],
+  "idTelegram": "634909098",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 8,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "61981f355c1aaf3b89bd5e24"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T22:03:33.433Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Екатерина",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский"
+  ],
+  "metroNames": [
+    "Академгородок",
+    "Житомирская",
+    "Святошин"
+  ],
+  "idTelegram": "627026493",
+  "daysOfSubscription": 0,
+  "priceMin": 6000,
+  "priceMax": 8000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619821cf5c1aaf3b89bd5e25"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T22:14:39.946Z"
+  },
+  "type": "",
+  "name": "Forest",
+  "nickname": "Foreestt",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "493371628",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198221d5c1aaf3b89bd5e26"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T22:15:57.892Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Iryna",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "897185639",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619823365c1aaf3b89bd5e27"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T22:20:38.040Z"
+  },
+  "type": "",
+  "name": "Black",
+  "lastName": "Ice",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "938107698",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "en",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619824875c1aaf3b89bd5e28"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T22:26:15.868Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Alexandra",
+  "nickname": "alexsaaandraaa",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "380639356",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [
+    1,
+    2
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 3,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "61982b935c1aaf3b89bd5e2e"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T22:56:19.617Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Roman",
+  "nickname": "shmel_bzzz",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Соломенский",
+    "Шевченковский"
+  ],
+  "metroNames": [
+    "Академгородок",
+    "Житомирская",
+    "Святошин",
+    "Нивки",
+    "Берестейская",
+    "Шулявская",
+    "Политехнический институт",
+    "Вокзальная"
+  ],
+  "idTelegram": "1289761670",
+  "daysOfSubscription": 0,
+  "priceMin": 6000,
+  "priceMax": 8000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1449483
+  ],
+  "language": "ua",
+  "freeCounterSearch": 8,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "61982e3c5c1aaf3b89bd5e2f"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T23:07:40.345Z"
+  },
+  "type": "",
+  "name": "Oleh",
+  "nickname": "Brukba",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "263327647",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 1,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "61982edf5c1aaf3b89bd5e30"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T23:10:23.274Z"
+  },
+  "type": "",
+  "name": "Александр",
+  "lastName": "Хорошок",
+  "nickname": "Khorbi",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "832040370",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619836955c1aaf3b89bd5e38"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T23:43:17.738Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Алла",
+  "lastName": "Гичка",
+  "nickname": "AllaHychka",
+  "savedApartments": [
+    1446916,
+    1447478,
+    1447459
+  ],
+  "city": "Киев",
+  "region": [
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Берестейская",
+    "Шулявская",
+    "Политехнический институт",
+    "Вокзальная",
+    "Героев Днепра",
+    "Оболонь",
+    "Петровка",
+    "Контрактовая площадь",
+    "Почтовая площадь",
+    "Крещатик",
+    "Арсенальная",
+    "Днепр",
+    "Площадь Льва Толстого",
+    "Олимпийская",
+    "Дворец Украина",
+    "Лыбедская",
+    "Дворец Спорта",
+    "Кловская",
+    "Дружбы Народов",
+    "Нивки",
+    "Университет",
+    "Театральная",
+    "Майдан Независимости",
+    "Лукьяновская",
+    "Золотые Ворота"
+  ],
+  "idTelegram": "683281412",
+  "daysOfSubscription": 0,
+  "priceMin": 9000,
+  "priceMax": 12000,
+  "rooms": [
+    1,
+    2
+  ],
+  "todayCompilation": [
+    1448801,
+    1447245,
+    1447559,
+    1449336,
+    1447478,
+    1449286,
+    1448193,
+    1446944,
+    1448259,
+    1449097,
+    1449311,
+    1448450,
+    1447468,
+    1447615,
+    1448658,
+    1448993,
+    1446916,
+    1449197,
+    1449151,
+    1448831,
+    1447459,
+    1447610,
+    1449431
+  ],
+  "language": "ua",
+  "freeCounterSearch": 0,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619836c85c1aaf3b89bd5e39"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T23:44:08.747Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Anastasiia",
+  "nickname": "little_hawk",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "130793929",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 12000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1447799,
+    1448803,
+    1449481,
+    1448158,
+    1449286,
+    1448945,
+    1449097,
+    1448360,
+    1447636,
+    1448099,
+    1449338,
+    1448183,
+    1446925,
+    1447318,
+    1449754,
+    1447798,
+    1449597,
+    1449431,
+    1447074,
+    1449750,
+    1448537,
+    1448030,
+    1448339,
+    1449768,
+    1447144,
+    1447468,
+    1449380,
+    1448335,
+    1449321,
+    1448072,
+    1447837,
+    1447998,
+    1448450,
+    1449043,
+    1447426,
+    1448507,
+    1449151,
+    1448047,
+    1446911,
+    1449242,
+    1448562,
+    1447845,
+    1447478,
+    1447843,
+    1449538,
+    1449663,
+    1448676,
+    1448100,
+    1449767,
+    1447742,
+    1448145,
+    1449725,
+    1448635,
+    1449556,
+    1448259,
+    1448996,
+    1448193,
+    1449340,
+    1449470,
+    1449592
+  ],
+  "language": "ua",
+  "freeCounterSearch": 5,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619839465c1aaf3b89bd5e3a"
+  },
+  "creationDate": {
+    "$date": "2021-11-19T23:54:46.738Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Helen",
+  "nickname": "helenkalinichenko",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Левобережная",
+    "Дарниця",
+    "Черниговская",
+    "Шулявская",
+    "Политехнический институт",
+    "Вокзальная",
+    "Минская",
+    "Оболонь",
+    "Олимпийская",
+    "Дворец Украина",
+    "Лыбедская",
+    "Дворец Спорта",
+    "Кловская",
+    "Печерская",
+    "Дружбы Народов",
+    "Нивки",
+    "Университет",
+    "Сырец",
+    "Дорогожичи",
+    "Лукьяновская",
+    "Славутич",
+    "Осокорки",
+    "Позняки"
+  ],
+  "idTelegram": "467249332",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 13000,
+  "rooms": [
+    1,
+    2
+  ],
+  "todayCompilation": [
+    1449583,
+    1447610,
+    1448801,
+    1447478,
+    1448183,
+    1448831,
+    1446897,
+    1448193,
+    1449286,
+    1448537,
+    1449468,
+    1448954,
+    1449556,
+    1449198,
+    1449313,
+    1447438,
+    1447199,
+    1449380,
+    1449311,
+    1449097,
+    1447923,
+    1446944,
+    1447468,
+    1448111,
+    1447564,
+    1448450,
+    1447459,
+    1447464,
+    1446916,
+    1447615,
+    1449767,
+    1449431,
+    1449552,
+    1449337
+  ],
+  "language": "ua",
+  "freeCounterSearch": 9,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619841e45c1aaf3b89bd5e3b"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T00:31:32.449Z"
+  },
+  "type": "продажа",
+  "name": "Eugene",
+  "nickname": "eeeugeneee",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Оболонский",
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Оболонь",
+    "Осокорки",
+    "Харьковская"
+  ],
+  "idTelegram": "7366471",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198506a5c1aaf3b89bd5e42"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T01:33:30.931Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Viacheslav",
+  "lastName": "Verba",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Голосеевский",
+    "Соломенский",
+    "Печерский",
+    "Шевченковский"
+  ],
+  "idTelegram": "912976436",
+  "daysOfSubscription": 0,
+  "priceMin": 15000,
+  "priceMax": 19000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [
+    1448669,
+    1447611,
+    1448564,
+    1448859,
+    1447276,
+    1449008,
+    1447522,
+    1449273,
+    1447768,
+    1448827,
+    1449482,
+    1448401,
+    1449734,
+    1448943,
+    1447244,
+    1447747,
+    1447374,
+    1447186,
+    1447011,
+    1448636,
+    1447248,
+    1449455,
+    1448341
+  ],
+  "language": "ua",
+  "freeCounterSearch": 0,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "61986f1e5c1aaf3b89bd5e43"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T03:44:30.160Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Ali na",
+  "nickname": "allinchk",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Славутич",
+    "Осокорки",
+    "Позняки",
+    "Харьковская"
+  ],
+  "idTelegram": "337304137",
+  "daysOfSubscription": 0,
+  "priceMin": 9000,
+  "priceMax": 12000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1449556,
+    1448183,
+    1449043,
+    1449340
+  ],
+  "language": "ua",
+  "freeCounterSearch": 3,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198707e5c1aaf3b89bd5e44"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T03:50:22.691Z"
+  },
+  "type": "",
+  "name": "Влад",
+  "nickname": "okdaj",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "437892838",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "en",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619875cc5c1aaf3b89bd5e45"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T04:13:00.025Z"
+  },
+  "type": "аренда:комната",
+  "name": "Евгений",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Печерская"
+  ],
+  "idTelegram": "1319751501",
+  "daysOfSubscription": 0,
+  "priceMin": 2000,
+  "priceMax": 5000,
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619878d45c1aaf3b89bd5e46"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T04:25:56.070Z"
+  },
+  "type": "продажа",
+  "name": "Vlad",
+  "nickname": "qlineq",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "668416075",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "en",
+  "freeCounterSearch": 10,
+  "userStatus": 2,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "61987c2b5c1aaf3b89bd5e47"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T04:40:11.278Z"
+  },
+  "type": "продажа",
+  "name": "Sorrento",
+  "nickname": "Number1_201",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "metroNames": [
+    "Житомирская",
+    "Нивки",
+    "Черниговская",
+    "Лесная",
+    "Гидропарк",
+    "Левобережная",
+    "Дарниця",
+    "Героев Днепра",
+    "Минская",
+    "Оболонь",
+    "Крещатик",
+    "Днепр",
+    "Площадь Льва Толстого",
+    "Дворец Украина",
+    "Дворец Спорта",
+    "Кловская",
+    "Дружбы Народов",
+    "Университет",
+    "Театральная",
+    "Майдан Независимости"
+  ],
+  "idTelegram": "941448395",
+  "daysOfSubscription": 0,
+  "priceMin": 25000,
+  "priceMax": 30000,
+  "rooms": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "todayCompilation": [
+    1449182
+  ],
+  "language": "ua",
+  "freeCounterSearch": 9,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "61987e6f5c1aaf3b89bd5e4b"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T04:49:51.142Z"
+  },
+  "type": "продажа",
+  "name": "_",
+  "lastName": "Vovan4ik",
+  "nickname": "LyricalPrometazin",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "658475579",
+  "daysOfSubscription": 0,
+  "priceMin": 8000,
+  "priceMax": 10000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "61987f9a5c1aaf3b89bd5e4c"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T04:54:50.767Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Egor",
+  "lastName": "Servetnyk",
+  "nickname": "fr_lancer",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Шевченковский"
+  ],
+  "metroNames": [
+    "Дорогожичи",
+    "Лукьяновская"
+  ],
+  "idTelegram": "385241762",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 15000,
+  "rooms": [
+    1,
+    2
+  ],
+  "todayCompilation": [
+    1448856,
+    1449583,
+    1448111,
+    1449431,
+    1449552,
+    1448537,
+    1447610,
+    1446897
+  ],
+  "language": "ua",
+  "freeCounterSearch": 3,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "619896e95c1aaf3b89bd5e4f"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T06:34:17.003Z"
+  },
+  "type": "",
+  "name": "Emma",
+  "lastName": "Grünwald",
+  "nickname": "emma_grunwald",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "512246341",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "61989e075c1aaf3b89bd5e50"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T07:04:39.237Z"
+  },
+  "type": "аренда:квартира",
+  "name": "𝓙𝓮𝓷𝓲𝓪",
+  "nickname": "rabotaetspeznac",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "idTelegram": "754811301",
+  "daysOfSubscription": 0,
+  "priceMin": 1000,
+  "priceMax": 5000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "61989e9d5c1aaf3b89bd5e51"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T07:07:09.495Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Тоха",
+  "nickname": "keipak_k",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Печерский"
+  ],
+  "metroNames": [
+    "Печерская"
+  ],
+  "idTelegram": "771010403",
+  "daysOfSubscription": 0,
+  "priceMin": 10000,
+  "priceMax": 25000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1449767,
+    1448203
+  ],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198a42c5c1aaf3b89bd5e60"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T07:30:52.418Z"
+  },
+  "type": "аренда:квартира",
+  "name": "❤️‍🔥",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "1863840393",
+  "daysOfSubscription": 0,
+  "priceMin": 7000,
+  "priceMax": 8000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [
+    1447604,
+    1448633,
+    1448955,
+    1448640,
+    1448305
+  ],
+  "language": "ua",
+  "freeCounterSearch": 9,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198a5bb5c1aaf3b89bd5e61"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T07:37:31.645Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Pavlo Voznenko",
+  "nickname": "pavlovoznenko",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "558797123",
+  "daysOfSubscription": 0,
+  "priceMin": 5000,
+  "priceMax": 7000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1449471,
+    1449542,
+    1448737,
+    1447238,
+    1448332
+  ],
+  "language": "ua",
+  "freeCounterSearch": 4,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198a63d5c1aaf3b89bd5e62"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T07:39:41.970Z"
+  },
+  "type": "",
+  "name": "Maryana 🌿",
+  "nickname": "maryana_mch",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "366391377",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 1,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198a6b35c1aaf3b89bd5e63"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T07:41:39.097Z"
+  },
+  "type": "",
+  "name": "Алексей",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "573620649",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198b0a45c1aaf3b89bd5e73"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T08:24:04.171Z"
+  },
+  "type": "",
+  "name": "Макс",
+  "lastName": "trudovik",
+  "nickname": "onetape_skill",
+  "savedApartments": [],
+  "region": [],
+  "metroNames": [],
+  "idTelegram": "694939439",
+  "daysOfSubscription": 0,
+  "priceMin": 0,
+  "priceMax": 0,
+  "rooms": [],
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 0,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198b4445c1aaf3b89bd5e74"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T08:39:32.558Z"
+  },
+  "type": "аренда:комната",
+  "name": "Анна-Кристина",
+  "lastName": "Ткачук",
+  "nickname": "okuniok",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Подольский",
+    "Печерский",
+    "Шевченковский"
+  ],
+  "metroNames": [
+    "Почтовая площадь",
+    "Крещатик",
+    "Арсенальная",
+    "Площадь Льва Толстого",
+    "Олимпийская",
+    "Золотые Ворота"
+  ],
+  "idTelegram": "356530038",
+  "daysOfSubscription": 0,
+  "priceMin": 1000,
+  "priceMax": 1500,
+  "todayCompilation": [],
+  "language": "ua",
+  "freeCounterSearch": 10,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198bb7b5c1aaf3b89bd5e7b"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T09:10:19.909Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Юлия",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Деснянский",
+    "Днепровский"
+  ],
+  "metroNames": [
+    "Черниговская",
+    "Лесная"
+  ],
+  "idTelegram": "909134154",
+  "daysOfSubscription": 0,
+  "priceMin": 7500,
+  "priceMax": 8000,
+  "rooms": [
+    1
+  ],
+  "todayCompilation": [
+    1449143
+  ],
+  "language": "ua",
+  "freeCounterSearch": 8,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+},{
+  "_id": {
+    "$oid": "6198c3225c1aaf3b89bd5e7d"
+  },
+  "creationDate": {
+    "$date": "2021-11-20T09:42:58.395Z"
+  },
+  "type": "аренда:квартира",
+  "name": "Sasha",
+  "lastName": "Kotenko",
+  "nickname": "sashakotenko",
+  "savedApartments": [],
+  "city": "Киев",
+  "region": [
+    "Святошинский",
+    "Деснянский",
+    "Днепровский",
+    "Голосеевский",
+    "Соломенский",
+    "Оболонский",
+    "Подольский",
+    "Печерский",
+    "Шевченковский",
+    "Дарницкий"
+  ],
+  "idTelegram": "520070497",
+  "daysOfSubscription": 0,
+  "priceMin": 7000,
+  "priceMax": 10000,
+  "rooms": [
+    2
+  ],
+  "todayCompilation": [
+    1449585,
+    1448277,
+    1448131,
+    1448128,
+    1449337,
+    1447604,
+    1449393,
+    1448305,
+    1448540,
+    1448707,
+    1448117,
+    1448633,
+    1449780,
+    1449197,
+    1448825,
+    1449074,
+    1447245,
+    1448640,
+    1448576,
+    1448955,
+    1446977,
+    1449738,
+    1447993,
+    1447095,
+    1447476,
+    1448111,
+    1448513
+  ],
+  "language": "ua",
+  "freeCounterSearch": 9,
+  "userStatus": 7,
+  "_class": "com.example.roomsbotapi.models.User"
+}]

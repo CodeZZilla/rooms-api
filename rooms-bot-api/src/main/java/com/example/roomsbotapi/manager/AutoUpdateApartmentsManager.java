@@ -89,7 +89,6 @@ public class AutoUpdateApartmentsManager {
         }
     }
 
-    @Async
     public void urlParser(String urlString) {
         try {
 

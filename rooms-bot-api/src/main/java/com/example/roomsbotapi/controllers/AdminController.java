@@ -3,6 +3,7 @@ package com.example.roomsbotapi.controllers;
 import com.example.roomsbotapi.models.User;
 import com.example.roomsbotapi.services.UserService;
 import lombok.AllArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
 import org.joda.time.LocalDate;
 import org.springframework.web.bind.annotation.*;
 
@@ -15,6 +16,7 @@ import java.util.stream.Collectors;
 @AllArgsConstructor
 @RequestMapping("/api/admin")
 @CrossOrigin
+@Slf4j
 public class AdminController {
 
     private final UserService userService;
@@ -43,6 +45,7 @@ public class AdminController {
         List<User> users = userService.findAll();
         Map<String, Integer> mapStages = new HashMap<>();
 
+        mapStages.put("zeroStage", (int) users.stream().map(User::getUserStatus).filter(user -> user == 0).count());
         mapStages.put("firstStage", (int) users.stream().map(User::getUserStatus).filter(user -> user == 1).count());
         mapStages.put("secondStage", (int) users.stream().map(User::getUserStatus).filter(user -> user == 2).count());
         mapStages.put("thirdStage", (int) users.stream().map(User::getUserStatus).filter(user -> user == 3).count());
@@ -55,21 +58,28 @@ public class AdminController {
     }
 
     @GetMapping("/dataForChats")
-    public Map<String, Object> dataForChats() {
+    public Map<String, List<Object>> dataForChats() {
         List<User> users = userService.findAll();
-        Map<String, Object> mapData = new HashMap<>();
+        Map<String, List<Object>> datMap = new HashMap<>();
+        List<Integer> usersCount = new ArrayList<>();
 
-        DateFormat format = new SimpleDateFormat("yyyy.MM.dd");
+        DateFormat format = new SimpleDateFormat("yyyy-MM-dd");
 
-
-        Set<java.time.LocalDateTime> dates = users.stream().map(x -> java.time.LocalDateTime.parse(format.format(x.getCreationDate())))
+        Set<java.time.LocalDate> dates = users.stream().map(x -> java.time.LocalDate.parse(format.format(x.getCreationDate())))
                 .collect(Collectors.toSet());
 
-        mapData.put("usersCount", users.size());
-        mapData.put("dates", dates);
+        List<java.time.LocalDate> dateList = dates.stream().sorted().collect(Collectors.toList());
 
-        System.out.println(dates);
+        for (var date : dateList) {
+            int countUsers = (int) users.stream().filter(x -> java.time.LocalDate.parse(format.format(x.getCreationDate())).equals(date)).count();
+            usersCount.add(countUsers);
+        }
 
-        return mapData;
+
+        datMap.put("dates", Arrays.asList(dateList.toArray()));
+        datMap.put("users", Arrays.asList(usersCount.toArray()));
+
+        log.info(datMap.toString());
+        return datMap;
     }
 }
