@@ -58,6 +58,10 @@ public class UserService {
         return repository.findByIdTelegram(id);
     }
 
+    public void deleteAll(List<User> users) {
+        repository.deleteAll(users);
+    }
+
     public void todayCompilationUser(User user) {
         if (user.getType() != null && user.getCity() != null
                 && user.getPriceMin() >= 0 && user.getPriceMax() != 0) {
